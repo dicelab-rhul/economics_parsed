@@ -1,0 +1,17 @@
+parameter_name,parameter_value
+1_player_count,9
+2_player_count,9
+3_player_count,9
+Id_2,
+UR_1 ($),0
+DL_1 ($),0
+DR_1 ($),1
+UL_0 ($),0
+UR_0 ($),1
+DL_0 ($),1
+DR_0 ($),0
+Finite,1
+ContRule,0
+Exchange,
+Eq,1
+Eq_1_U,0.5

@@ -1,0 +1,14 @@
+parameter_name,parameter_value
+pd1_player_count,168
+pd2_player_count,222
+Round,1
+UR_1 ($),0.05
+DL_1 ($),0.5
+UR_0 ($),0.5
+DL_0 ($),0.05
+Finite,1
+ContRule,0
+Exchange,200
+Eq,1
+Eq_1_U,0
+Eq_1_L,0

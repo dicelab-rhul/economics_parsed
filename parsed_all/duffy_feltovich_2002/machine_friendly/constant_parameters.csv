@@ -1,0 +1,10 @@
+parameter_name,parameter_value
+1_player_count,21
+2_player_count,20
+3_player_count,20
+UL_1 ($),0.7
+UL_0 ($),0.7
+Finite,1
+ContRule,0
+Exchange,100
+Eq_1_L,0

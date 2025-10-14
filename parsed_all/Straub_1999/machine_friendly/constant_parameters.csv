@@ -1,0 +1,20 @@
+parameter_name,parameter_value
+1_player_count,11
+2_player_count,11
+3_player_count,11
+4_player_count,11
+5_player_count,11
+6_player_count,11
+7_player_count,11
+8_player_count,11
+Id_2,
+Choice_2,
+Payoff ($),
+Finite,1
+ContRule,0
+Exchange,50
+Eq,3
+Eq_1_U,1
+Eq_1_L,1
+Eq_2_U,0
+Eq_2_L,0

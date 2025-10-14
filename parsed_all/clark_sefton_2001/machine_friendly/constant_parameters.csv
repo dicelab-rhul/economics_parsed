@@ -1,0 +1,21 @@
+parameter_name,parameter_value
+CG_player_count,20
+Game,CG
+Row_1,1
+UL_1 ($),0.8938547486033519
+UR_1 ($),0.8938547486033519
+DL_1 ($),0
+DR_1 ($),1.1173184357541899
+UR_0 ($),0
+DL_0 ($),0.8938547486033519
+DR_0 ($),1.1173184357541899
+Finite,1
+ContRule,0
+Exchange,895
+Eq,3
+Eq_1_U,1
+Eq_1_L,1
+Eq_2_U,0
+Eq_2_L,0
+Eq_3_U,0.2
+Eq_3_L,0.2

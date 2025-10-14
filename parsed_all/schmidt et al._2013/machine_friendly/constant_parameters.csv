@@ -1,0 +1,33 @@
+parameter_name,parameter_value
+Random Match Protocol, Phase I, Game CO1_player_count,11
+Random Match Protocol, Phase I, Game CO2_player_count,11
+Random Match Protocol, Phase I, Game CO3_player_count,11
+Random Match Protocol, Phase I, Game CO4_player_count,11
+Random Match Protocol, Phase II, Game CO1_player_count,11
+Random Match Protocol, Phase II, Game PD1_player_count,11
+Random Match Protocol, Phase II, Game CO2_player_count,11
+Random Match Protocol, Phase II, Game PD2_player_count,11
+Random Match Protocol, Phase II, Game CO3_player_count,11
+Random Match Protocol, Phase II, Game PD3_player_count,11
+Random Match Protocol, Phase II, Game CO4_player_count,11
+Random Match Protocol, Phase II, Game PD4_player_count,11
+One Shot Protocol, original, Game CO1_player_count,40
+One Shot Protocol, original, Game CO2_player_count,40
+One Shot Protocol, original, Game CO3_player_count,40
+One Shot Protocol, original, Game CO4_player_count,40
+One Shot Protocol, original, Game PD1_player_count,40
+One Shot Protocol, original, Game PD2_player_count,40
+One Shot Protocol, original, Game PD3_player_count,40
+One Shot Protocol, original, Game PD4_player_count,40
+One Shot Protocol, reverse, PD4-R_player_count,40
+One Shot Protocol, reverse, PD3-R_player_count,40
+One Shot Protocol, reverse, PD2-R_player_count,40
+One Shot Protocol, reverse, PD1-R_player_count,40
+One Shot Protocol, reverse, CO4-R_player_count,40
+One Shot Protocol, reverse, CO3-R_player_count,40
+One Shot Protocol, reverse, CO2-R_player_count,40
+One Shot Protocol, reverse, CO1-R_player_count,40
+Row_1,1
+Finite,1
+ContRule,0
+Exchange,100

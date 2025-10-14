@@ -1,0 +1,4 @@
+match_id,dataset_id,treatment,session,round,player_1_id,player_2_id,player_1_choice,player_2_choice
+dal_fin_1,dal_fin,N/A,1,N/A,dal_fin_1,dal_fin_1,N/A,N/A
+dal_fin_2,dal_fin,N/A,2,N/A,dal_fin_1,dal_fin_1,N/A,N/A
+dal_fin_3,dal_fin,N/A,3,N/A,dal_fin_1,dal_fin_1,N/A,N/A

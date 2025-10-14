@@ -1,0 +1,18 @@
+parameter_name,parameter_value
+no comm_player_count,40
+Game,no comm
+Session,
+UL_1 ($),0.35
+UR_1 ($),1
+DL_1 ($),0
+DR_1 ($),0.8
+UL_0 ($),0.35
+UR_0 ($),0
+DL_0 ($),1
+DR_0 ($),0.8
+Finite,1
+ContRule,0
+Exchange,1000
+Eq,1
+Eq_1_U,1
+Eq_1_L,1

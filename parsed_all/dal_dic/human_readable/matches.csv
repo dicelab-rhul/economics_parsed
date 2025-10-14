@@ -1,0 +1,5 @@
+experiment,treatment,session,match_period,match_group,supergame_period,supergame_ending,player,role,a1,a2,a3,a4,a5,a6,observation
+dal_dic,N/A,2,N/A,N/A,N/A,N/A,dal_dic_1,player_1,N/A,N/A,N/A,N/A,N/A,N/A,0
+dal_dic,N/A,2,N/A,N/A,N/A,N/A,dal_dic_1,player_2,N/A,N/A,N/A,N/A,N/A,N/A,0
+dal_dic,N/A,3,N/A,N/A,N/A,N/A,dal_dic_1,player_1,N/A,N/A,N/A,N/A,N/A,N/A,0
+dal_dic,N/A,3,N/A,N/A,N/A,N/A,dal_dic_1,player_2,N/A,N/A,N/A,N/A,N/A,N/A,0

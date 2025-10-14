@@ -1,0 +1,2 @@
+match_id,dataset_id,treatment,session,round,player_1_id,player_2_id,player_1_choice,player_2_choice
+fred_exchange_merged_1,fred_exchange_merged,N/A,N/A,N/A,fred_exchange_merged_1,fred_exchange_merged_1,N/A,N/A
