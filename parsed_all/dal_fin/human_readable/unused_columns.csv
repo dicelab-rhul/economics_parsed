@@ -1,0 +1,9 @@
+Unused columns:
+1: treatment
+3: match_period
+4: match_group
+5: supergame_period
+6: supergame_ending
+7: player
+8: role
+9: a1

@@ -1,401 +1,401 @@
-match_id,dataset_id,treatment,session,round,player_1_id,player_2_id,player_1_choice,player_2_choice
-Croson_1999_1,Croson_1999,Guess,1,Iterated Dominance I,Croson_1999_1,Croson_1999_2,1,
-Croson_1999_2,Croson_1999,Guess,1,Iterated Dominance I,Croson_1999_2,Croson_1999_10,1,
-Croson_1999_3,Croson_1999,Guess,1,Iterated Dominance I,Croson_1999_2,Croson_1999_11,2,
-Croson_1999_4,Croson_1999,Guess,1,Iterated Dominance I,Croson_1999_2,Croson_1999_12,4,
-Croson_1999_5,Croson_1999,Guess,1,Iterated Dominance I,Croson_1999_2,Croson_1999_13,4,
-Croson_1999_6,Croson_1999,Guess,1,Iterated Dominance I,Croson_1999_2,Croson_1999_14,4,
-Croson_1999_7,Croson_1999,Guess,1,Iterated Dominance I,Croson_1999_2,Croson_1999_15,4,
-Croson_1999_8,Croson_1999,Guess,1,Iterated Dominance I,Croson_1999_2,Croson_1999_16,4,
-Croson_1999_9,Croson_1999,Guess,1,Iterated Dominance I,Croson_1999_2,Croson_1999_17,3,
-Croson_1999_10,Croson_1999,Guess,1,Iterated Dominance I,Croson_1999_2,Croson_1999_18,4,
-Croson_1999_11,Croson_1999,Guess,1,Iterated Dominance I,Croson_1999_2,Croson_1999_19,4,
-Croson_1999_12,Croson_1999,Guess,1,Iterated Dominance I,Croson_1999_2,Croson_1999_20,3,
-Croson_1999_13,Croson_1999,Guess,1,Iterated Dominance I,Croson_1999_2,Croson_1999_21,4,
-Croson_1999_14,Croson_1999,Guess,1,Iterated Dominance I,Croson_1999_2,Croson_1999_3,1,
-Croson_1999_15,Croson_1999,Guess,1,Iterated Dominance I,Croson_1999_2,Croson_1999_4,2,
-Croson_1999_16,Croson_1999,Guess,1,Iterated Dominance I,Croson_1999_2,Croson_1999_5,1,
-Croson_1999_17,Croson_1999,Guess,1,Iterated Dominance I,Croson_1999_2,Croson_1999_6,2,
-Croson_1999_18,Croson_1999,Guess,1,Iterated Dominance I,Croson_1999_2,Croson_1999_7,1,
-Croson_1999_19,Croson_1999,Guess,1,Iterated Dominance I,Croson_1999_2,Croson_1999_8,1,
-Croson_1999_20,Croson_1999,Guess,1,Iterated Dominance I,Croson_1999_2,Croson_1999_9,1,
-Croson_1999_21,Croson_1999,Guess,1,Iterated dominance 2,Croson_1999_1,Croson_1999_2,2,
-Croson_1999_22,Croson_1999,Guess,1,Iterated dominance 2,Croson_1999_2,Croson_1999_10,2,
-Croson_1999_23,Croson_1999,Guess,1,Iterated dominance 2,Croson_1999_2,Croson_1999_11,1,
-Croson_1999_24,Croson_1999,Guess,1,Iterated dominance 2,Croson_1999_2,Croson_1999_12,4,
-Croson_1999_25,Croson_1999,Guess,1,Iterated dominance 2,Croson_1999_2,Croson_1999_13,3,
-Croson_1999_26,Croson_1999,Guess,1,Iterated dominance 2,Croson_1999_2,Croson_1999_14,4,
-Croson_1999_27,Croson_1999,Guess,1,Iterated dominance 2,Croson_1999_2,Croson_1999_15,3,
-Croson_1999_28,Croson_1999,Guess,1,Iterated dominance 2,Croson_1999_2,Croson_1999_16,3,
-Croson_1999_29,Croson_1999,Guess,1,Iterated dominance 2,Croson_1999_2,Croson_1999_17,4,
-Croson_1999_30,Croson_1999,Guess,1,Iterated dominance 2,Croson_1999_2,Croson_1999_18,4,
-Croson_1999_31,Croson_1999,Guess,1,Iterated dominance 2,Croson_1999_2,Croson_1999_19,4,
-Croson_1999_32,Croson_1999,Guess,1,Iterated dominance 2,Croson_1999_2,Croson_1999_20,3,
-Croson_1999_33,Croson_1999,Guess,1,Iterated dominance 2,Croson_1999_2,Croson_1999_21,4,
-Croson_1999_34,Croson_1999,Guess,1,Iterated dominance 2,Croson_1999_2,Croson_1999_3,2,
-Croson_1999_35,Croson_1999,Guess,1,Iterated dominance 2,Croson_1999_2,Croson_1999_4,2,
-Croson_1999_36,Croson_1999,Guess,1,Iterated dominance 2,Croson_1999_2,Croson_1999_5,2,
-Croson_1999_37,Croson_1999,Guess,1,Iterated dominance 2,Croson_1999_2,Croson_1999_6,2,
-Croson_1999_38,Croson_1999,Guess,1,Iterated dominance 2,Croson_1999_2,Croson_1999_7,1,
-Croson_1999_39,Croson_1999,Guess,1,Iterated dominance 2,Croson_1999_2,Croson_1999_8,2,
-Croson_1999_40,Croson_1999,Guess,1,Iterated dominance 2,Croson_1999_2,Croson_1999_9,2,
-Croson_1999_41,Croson_1999,Guess,1,Same reason,Croson_1999_1,Croson_1999_2,2,
-Croson_1999_42,Croson_1999,Guess,1,Same reason,Croson_1999_2,Croson_1999_10,2,
-Croson_1999_43,Croson_1999,Guess,1,Same reason,Croson_1999_2,Croson_1999_11,2,
-Croson_1999_44,Croson_1999,Guess,1,Same reason,Croson_1999_2,Croson_1999_12,4,
-Croson_1999_45,Croson_1999,Guess,1,Same reason,Croson_1999_2,Croson_1999_13,4,
-Croson_1999_46,Croson_1999,Guess,1,Same reason,Croson_1999_2,Croson_1999_14,4,
-Croson_1999_47,Croson_1999,Guess,1,Same reason,Croson_1999_2,Croson_1999_15,4,
-Croson_1999_48,Croson_1999,Guess,1,Same reason,Croson_1999_2,Croson_1999_16,4,
-Croson_1999_49,Croson_1999,Guess,1,Same reason,Croson_1999_2,Croson_1999_17,4,
-Croson_1999_50,Croson_1999,Guess,1,Same reason,Croson_1999_2,Croson_1999_18,4,
-Croson_1999_51,Croson_1999,Guess,1,Same reason,Croson_1999_2,Croson_1999_19,4,
-Croson_1999_52,Croson_1999,Guess,1,Same reason,Croson_1999_2,Croson_1999_20,4,
-Croson_1999_53,Croson_1999,Guess,1,Same reason,Croson_1999_2,Croson_1999_21,4,
-Croson_1999_54,Croson_1999,Guess,1,Same reason,Croson_1999_2,Croson_1999_3,2,
-Croson_1999_55,Croson_1999,Guess,1,Same reason,Croson_1999_2,Croson_1999_4,2,
-Croson_1999_56,Croson_1999,Guess,1,Same reason,Croson_1999_2,Croson_1999_5,2,
-Croson_1999_57,Croson_1999,Guess,1,Same reason,Croson_1999_2,Croson_1999_6,2,
-Croson_1999_58,Croson_1999,Guess,1,Same reason,Croson_1999_2,Croson_1999_7,2,
-Croson_1999_59,Croson_1999,Guess,1,Same reason,Croson_1999_2,Croson_1999_8,2,
-Croson_1999_60,Croson_1999,Guess,1,Same reason,Croson_1999_2,Croson_1999_9,1,
-Croson_1999_61,Croson_1999,Guess,1,Symmetric PD,Croson_1999_1,Croson_1999_2,2,
-Croson_1999_62,Croson_1999,Guess,1,Symmetric PD,Croson_1999_2,Croson_1999_10,1,
-Croson_1999_63,Croson_1999,Guess,1,Symmetric PD,Croson_1999_2,Croson_1999_11,2,
-Croson_1999_64,Croson_1999,Guess,1,Symmetric PD,Croson_1999_2,Croson_1999_12,3,
-Croson_1999_65,Croson_1999,Guess,1,Symmetric PD,Croson_1999_2,Croson_1999_13,3,
-Croson_1999_66,Croson_1999,Guess,1,Symmetric PD,Croson_1999_2,Croson_1999_14,4,
-Croson_1999_67,Croson_1999,Guess,1,Symmetric PD,Croson_1999_2,Croson_1999_15,3,
-Croson_1999_68,Croson_1999,Guess,1,Symmetric PD,Croson_1999_2,Croson_1999_16,3,
-Croson_1999_69,Croson_1999,Guess,1,Symmetric PD,Croson_1999_2,Croson_1999_17,4,
-Croson_1999_70,Croson_1999,Guess,1,Symmetric PD,Croson_1999_2,Croson_1999_18,3,
-Croson_1999_71,Croson_1999,Guess,1,Symmetric PD,Croson_1999_2,Croson_1999_19,3,
-Croson_1999_72,Croson_1999,Guess,1,Symmetric PD,Croson_1999_2,Croson_1999_20,4,
-Croson_1999_73,Croson_1999,Guess,1,Symmetric PD,Croson_1999_2,Croson_1999_21,3,
-Croson_1999_74,Croson_1999,Guess,1,Symmetric PD,Croson_1999_2,Croson_1999_3,1,
-Croson_1999_75,Croson_1999,Guess,1,Symmetric PD,Croson_1999_2,Croson_1999_4,1,
-Croson_1999_76,Croson_1999,Guess,1,Symmetric PD,Croson_1999_2,Croson_1999_5,1,
-Croson_1999_77,Croson_1999,Guess,1,Symmetric PD,Croson_1999_2,Croson_1999_6,1,
-Croson_1999_78,Croson_1999,Guess,1,Symmetric PD,Croson_1999_2,Croson_1999_7,2,
-Croson_1999_79,Croson_1999,Guess,1,Symmetric PD,Croson_1999_2,Croson_1999_8,1,
-Croson_1999_80,Croson_1999,Guess,1,Symmetric PD,Croson_1999_2,Croson_1999_9,2,
-Croson_1999_81,Croson_1999,Guess,1,asymmetric PD,Croson_1999_1,Croson_1999_2,1,
-Croson_1999_82,Croson_1999,Guess,1,asymmetric PD,Croson_1999_2,Croson_1999_10,1,
-Croson_1999_83,Croson_1999,Guess,1,asymmetric PD,Croson_1999_2,Croson_1999_11,2,
-Croson_1999_84,Croson_1999,Guess,1,asymmetric PD,Croson_1999_2,Croson_1999_12,3,
-Croson_1999_85,Croson_1999,Guess,1,asymmetric PD,Croson_1999_2,Croson_1999_13,3,
-Croson_1999_86,Croson_1999,Guess,1,asymmetric PD,Croson_1999_2,Croson_1999_14,4,
-Croson_1999_87,Croson_1999,Guess,1,asymmetric PD,Croson_1999_2,Croson_1999_15,3,
-Croson_1999_88,Croson_1999,Guess,1,asymmetric PD,Croson_1999_2,Croson_1999_16,4,
-Croson_1999_89,Croson_1999,Guess,1,asymmetric PD,Croson_1999_2,Croson_1999_17,3,
-Croson_1999_90,Croson_1999,Guess,1,asymmetric PD,Croson_1999_2,Croson_1999_18,4,
-Croson_1999_91,Croson_1999,Guess,1,asymmetric PD,Croson_1999_2,Croson_1999_19,4,
-Croson_1999_92,Croson_1999,Guess,1,asymmetric PD,Croson_1999_2,Croson_1999_20,3,
-Croson_1999_93,Croson_1999,Guess,1,asymmetric PD,Croson_1999_2,Croson_1999_21,4,
-Croson_1999_94,Croson_1999,Guess,1,asymmetric PD,Croson_1999_2,Croson_1999_3,1,
-Croson_1999_95,Croson_1999,Guess,1,asymmetric PD,Croson_1999_2,Croson_1999_4,1,
-Croson_1999_96,Croson_1999,Guess,1,asymmetric PD,Croson_1999_2,Croson_1999_5,2,
-Croson_1999_97,Croson_1999,Guess,1,asymmetric PD,Croson_1999_2,Croson_1999_6,1,
-Croson_1999_98,Croson_1999,Guess,1,asymmetric PD,Croson_1999_2,Croson_1999_7,2,
-Croson_1999_99,Croson_1999,Guess,1,asymmetric PD,Croson_1999_2,Croson_1999_8,2,
-Croson_1999_100,Croson_1999,Guess,1,asymmetric PD,Croson_1999_2,Croson_1999_9,1,
-Croson_1999_101,Croson_1999,Guess,2,Iterated Dominance I,Croson_1999_1,Croson_1999_2,1,
-Croson_1999_102,Croson_1999,Guess,2,Iterated Dominance I,Croson_1999_2,Croson_1999_10,2,
-Croson_1999_103,Croson_1999,Guess,2,Iterated Dominance I,Croson_1999_2,Croson_1999_11,2,
-Croson_1999_104,Croson_1999,Guess,2,Iterated Dominance I,Croson_1999_2,Croson_1999_12,4,
-Croson_1999_105,Croson_1999,Guess,2,Iterated Dominance I,Croson_1999_2,Croson_1999_13,3,
-Croson_1999_106,Croson_1999,Guess,2,Iterated Dominance I,Croson_1999_2,Croson_1999_14,4,
-Croson_1999_107,Croson_1999,Guess,2,Iterated Dominance I,Croson_1999_2,Croson_1999_15,4,
-Croson_1999_108,Croson_1999,Guess,2,Iterated Dominance I,Croson_1999_2,Croson_1999_16,3,
-Croson_1999_109,Croson_1999,Guess,2,Iterated Dominance I,Croson_1999_2,Croson_1999_17,4,
-Croson_1999_110,Croson_1999,Guess,2,Iterated Dominance I,Croson_1999_2,Croson_1999_18,4,
-Croson_1999_111,Croson_1999,Guess,2,Iterated Dominance I,Croson_1999_2,Croson_1999_19,4,
-Croson_1999_112,Croson_1999,Guess,2,Iterated Dominance I,Croson_1999_2,Croson_1999_20,3,
-Croson_1999_113,Croson_1999,Guess,2,Iterated Dominance I,Croson_1999_2,Croson_1999_21,4,
-Croson_1999_114,Croson_1999,Guess,2,Iterated Dominance I,Croson_1999_2,Croson_1999_3,1,
-Croson_1999_115,Croson_1999,Guess,2,Iterated Dominance I,Croson_1999_2,Croson_1999_4,2,
-Croson_1999_116,Croson_1999,Guess,2,Iterated Dominance I,Croson_1999_2,Croson_1999_5,1,
-Croson_1999_117,Croson_1999,Guess,2,Iterated Dominance I,Croson_1999_2,Croson_1999_6,2,
-Croson_1999_118,Croson_1999,Guess,2,Iterated Dominance I,Croson_1999_2,Croson_1999_7,1,
-Croson_1999_119,Croson_1999,Guess,2,Iterated Dominance I,Croson_1999_2,Croson_1999_8,2,
-Croson_1999_120,Croson_1999,Guess,2,Iterated Dominance I,Croson_1999_2,Croson_1999_9,2,
-Croson_1999_121,Croson_1999,Guess,2,Iterated dominance 2,Croson_1999_1,Croson_1999_2,2,
-Croson_1999_122,Croson_1999,Guess,2,Iterated dominance 2,Croson_1999_2,Croson_1999_10,2,
-Croson_1999_123,Croson_1999,Guess,2,Iterated dominance 2,Croson_1999_2,Croson_1999_11,2,
-Croson_1999_124,Croson_1999,Guess,2,Iterated dominance 2,Croson_1999_2,Croson_1999_12,4,
-Croson_1999_125,Croson_1999,Guess,2,Iterated dominance 2,Croson_1999_2,Croson_1999_13,4,
-Croson_1999_126,Croson_1999,Guess,2,Iterated dominance 2,Croson_1999_2,Croson_1999_14,4,
-Croson_1999_127,Croson_1999,Guess,2,Iterated dominance 2,Croson_1999_2,Croson_1999_15,3,
-Croson_1999_128,Croson_1999,Guess,2,Iterated dominance 2,Croson_1999_2,Croson_1999_16,4,
-Croson_1999_129,Croson_1999,Guess,2,Iterated dominance 2,Croson_1999_2,Croson_1999_17,3,
-Croson_1999_130,Croson_1999,Guess,2,Iterated dominance 2,Croson_1999_2,Croson_1999_18,4,
-Croson_1999_131,Croson_1999,Guess,2,Iterated dominance 2,Croson_1999_2,Croson_1999_19,4,
-Croson_1999_132,Croson_1999,Guess,2,Iterated dominance 2,Croson_1999_2,Croson_1999_20,3,
-Croson_1999_133,Croson_1999,Guess,2,Iterated dominance 2,Croson_1999_2,Croson_1999_21,4,
-Croson_1999_134,Croson_1999,Guess,2,Iterated dominance 2,Croson_1999_2,Croson_1999_3,2,
-Croson_1999_135,Croson_1999,Guess,2,Iterated dominance 2,Croson_1999_2,Croson_1999_4,2,
-Croson_1999_136,Croson_1999,Guess,2,Iterated dominance 2,Croson_1999_2,Croson_1999_5,2,
-Croson_1999_137,Croson_1999,Guess,2,Iterated dominance 2,Croson_1999_2,Croson_1999_6,2,
-Croson_1999_138,Croson_1999,Guess,2,Iterated dominance 2,Croson_1999_2,Croson_1999_7,1,
-Croson_1999_139,Croson_1999,Guess,2,Iterated dominance 2,Croson_1999_2,Croson_1999_8,2,
-Croson_1999_140,Croson_1999,Guess,2,Iterated dominance 2,Croson_1999_2,Croson_1999_9,2,
-Croson_1999_141,Croson_1999,Guess,2,Same reason,Croson_1999_1,Croson_1999_2,1,
-Croson_1999_142,Croson_1999,Guess,2,Same reason,Croson_1999_2,Croson_1999_10,2,
-Croson_1999_143,Croson_1999,Guess,2,Same reason,Croson_1999_2,Croson_1999_11,2,
-Croson_1999_144,Croson_1999,Guess,2,Same reason,Croson_1999_2,Croson_1999_12,4,
-Croson_1999_145,Croson_1999,Guess,2,Same reason,Croson_1999_2,Croson_1999_13,4,
-Croson_1999_146,Croson_1999,Guess,2,Same reason,Croson_1999_2,Croson_1999_14,4,
-Croson_1999_147,Croson_1999,Guess,2,Same reason,Croson_1999_2,Croson_1999_15,4,
-Croson_1999_148,Croson_1999,Guess,2,Same reason,Croson_1999_2,Croson_1999_16,4,
-Croson_1999_149,Croson_1999,Guess,2,Same reason,Croson_1999_2,Croson_1999_17,4,
-Croson_1999_150,Croson_1999,Guess,2,Same reason,Croson_1999_2,Croson_1999_18,4,
-Croson_1999_151,Croson_1999,Guess,2,Same reason,Croson_1999_2,Croson_1999_19,4,
-Croson_1999_152,Croson_1999,Guess,2,Same reason,Croson_1999_2,Croson_1999_20,4,
-Croson_1999_153,Croson_1999,Guess,2,Same reason,Croson_1999_2,Croson_1999_21,4,
-Croson_1999_154,Croson_1999,Guess,2,Same reason,Croson_1999_2,Croson_1999_3,2,
-Croson_1999_155,Croson_1999,Guess,2,Same reason,Croson_1999_2,Croson_1999_4,2,
-Croson_1999_156,Croson_1999,Guess,2,Same reason,Croson_1999_2,Croson_1999_5,2,
-Croson_1999_157,Croson_1999,Guess,2,Same reason,Croson_1999_2,Croson_1999_6,2,
-Croson_1999_158,Croson_1999,Guess,2,Same reason,Croson_1999_2,Croson_1999_7,2,
-Croson_1999_159,Croson_1999,Guess,2,Same reason,Croson_1999_2,Croson_1999_8,2,
-Croson_1999_160,Croson_1999,Guess,2,Same reason,Croson_1999_2,Croson_1999_9,2,
-Croson_1999_161,Croson_1999,Guess,2,Symmetric PD,Croson_1999_1,Croson_1999_2,1,
-Croson_1999_162,Croson_1999,Guess,2,Symmetric PD,Croson_1999_2,Croson_1999_10,2,
-Croson_1999_163,Croson_1999,Guess,2,Symmetric PD,Croson_1999_2,Croson_1999_11,1,
-Croson_1999_164,Croson_1999,Guess,2,Symmetric PD,Croson_1999_2,Croson_1999_12,4,
-Croson_1999_165,Croson_1999,Guess,2,Symmetric PD,Croson_1999_2,Croson_1999_13,4,
-Croson_1999_166,Croson_1999,Guess,2,Symmetric PD,Croson_1999_2,Croson_1999_14,4,
-Croson_1999_167,Croson_1999,Guess,2,Symmetric PD,Croson_1999_2,Croson_1999_15,4,
-Croson_1999_168,Croson_1999,Guess,2,Symmetric PD,Croson_1999_2,Croson_1999_16,4,
-Croson_1999_169,Croson_1999,Guess,2,Symmetric PD,Croson_1999_2,Croson_1999_17,3,
-Croson_1999_170,Croson_1999,Guess,2,Symmetric PD,Croson_1999_2,Croson_1999_18,4,
-Croson_1999_171,Croson_1999,Guess,2,Symmetric PD,Croson_1999_2,Croson_1999_19,3,
-Croson_1999_172,Croson_1999,Guess,2,Symmetric PD,Croson_1999_2,Croson_1999_20,3,
-Croson_1999_173,Croson_1999,Guess,2,Symmetric PD,Croson_1999_2,Croson_1999_21,4,
-Croson_1999_174,Croson_1999,Guess,2,Symmetric PD,Croson_1999_2,Croson_1999_3,2,
-Croson_1999_175,Croson_1999,Guess,2,Symmetric PD,Croson_1999_2,Croson_1999_4,1,
-Croson_1999_176,Croson_1999,Guess,2,Symmetric PD,Croson_1999_2,Croson_1999_5,1,
-Croson_1999_177,Croson_1999,Guess,2,Symmetric PD,Croson_1999_2,Croson_1999_6,1,
-Croson_1999_178,Croson_1999,Guess,2,Symmetric PD,Croson_1999_2,Croson_1999_7,1,
-Croson_1999_179,Croson_1999,Guess,2,Symmetric PD,Croson_1999_2,Croson_1999_8,2,
-Croson_1999_180,Croson_1999,Guess,2,Symmetric PD,Croson_1999_2,Croson_1999_9,2,
-Croson_1999_181,Croson_1999,Guess,2,asymmetric PD,Croson_1999_1,Croson_1999_2,2,
-Croson_1999_182,Croson_1999,Guess,2,asymmetric PD,Croson_1999_2,Croson_1999_10,2,
-Croson_1999_183,Croson_1999,Guess,2,asymmetric PD,Croson_1999_2,Croson_1999_11,2,
-Croson_1999_184,Croson_1999,Guess,2,asymmetric PD,Croson_1999_2,Croson_1999_12,4,
-Croson_1999_185,Croson_1999,Guess,2,asymmetric PD,Croson_1999_2,Croson_1999_13,4,
-Croson_1999_186,Croson_1999,Guess,2,asymmetric PD,Croson_1999_2,Croson_1999_14,4,
-Croson_1999_187,Croson_1999,Guess,2,asymmetric PD,Croson_1999_2,Croson_1999_15,4,
-Croson_1999_188,Croson_1999,Guess,2,asymmetric PD,Croson_1999_2,Croson_1999_16,3,
-Croson_1999_189,Croson_1999,Guess,2,asymmetric PD,Croson_1999_2,Croson_1999_17,3,
-Croson_1999_190,Croson_1999,Guess,2,asymmetric PD,Croson_1999_2,Croson_1999_18,4,
-Croson_1999_191,Croson_1999,Guess,2,asymmetric PD,Croson_1999_2,Croson_1999_19,3,
-Croson_1999_192,Croson_1999,Guess,2,asymmetric PD,Croson_1999_2,Croson_1999_20,4,
-Croson_1999_193,Croson_1999,Guess,2,asymmetric PD,Croson_1999_2,Croson_1999_21,3,
-Croson_1999_194,Croson_1999,Guess,2,asymmetric PD,Croson_1999_2,Croson_1999_3,2,
-Croson_1999_195,Croson_1999,Guess,2,asymmetric PD,Croson_1999_2,Croson_1999_4,1,
-Croson_1999_196,Croson_1999,Guess,2,asymmetric PD,Croson_1999_2,Croson_1999_5,2,
-Croson_1999_197,Croson_1999,Guess,2,asymmetric PD,Croson_1999_2,Croson_1999_6,1,
-Croson_1999_198,Croson_1999,Guess,2,asymmetric PD,Croson_1999_2,Croson_1999_7,2,
-Croson_1999_199,Croson_1999,Guess,2,asymmetric PD,Croson_1999_2,Croson_1999_8,2,
-Croson_1999_200,Croson_1999,Guess,2,asymmetric PD,Croson_1999_2,Croson_1999_9,2,
-Croson_1999_201,Croson_1999,No Guess,1,Iterated Dominance I,Croson_1999_22,Croson_1999_23,2,
-Croson_1999_202,Croson_1999,No Guess,1,Iterated Dominance I,Croson_1999_23,Croson_1999_24,1,
-Croson_1999_203,Croson_1999,No Guess,1,Iterated Dominance I,Croson_1999_23,Croson_1999_25,1,
-Croson_1999_204,Croson_1999,No Guess,1,Iterated Dominance I,Croson_1999_23,Croson_1999_26,1,
-Croson_1999_205,Croson_1999,No Guess,1,Iterated Dominance I,Croson_1999_23,Croson_1999_27,1,
-Croson_1999_206,Croson_1999,No Guess,1,Iterated Dominance I,Croson_1999_23,Croson_1999_28,2,
-Croson_1999_207,Croson_1999,No Guess,1,Iterated Dominance I,Croson_1999_23,Croson_1999_29,2,
-Croson_1999_208,Croson_1999,No Guess,1,Iterated Dominance I,Croson_1999_23,Croson_1999_30,2,
-Croson_1999_209,Croson_1999,No Guess,1,Iterated Dominance I,Croson_1999_23,Croson_1999_31,2,
-Croson_1999_210,Croson_1999,No Guess,1,Iterated Dominance I,Croson_1999_23,Croson_1999_32,1,
-Croson_1999_211,Croson_1999,No Guess,1,Iterated Dominance I,Croson_1999_23,Croson_1999_33,3,
-Croson_1999_212,Croson_1999,No Guess,1,Iterated Dominance I,Croson_1999_23,Croson_1999_34,3,
-Croson_1999_213,Croson_1999,No Guess,1,Iterated Dominance I,Croson_1999_23,Croson_1999_35,3,
-Croson_1999_214,Croson_1999,No Guess,1,Iterated Dominance I,Croson_1999_23,Croson_1999_36,3,
-Croson_1999_215,Croson_1999,No Guess,1,Iterated Dominance I,Croson_1999_23,Croson_1999_37,3,
-Croson_1999_216,Croson_1999,No Guess,1,Iterated Dominance I,Croson_1999_23,Croson_1999_38,4,
-Croson_1999_217,Croson_1999,No Guess,1,Iterated Dominance I,Croson_1999_23,Croson_1999_39,4,
-Croson_1999_218,Croson_1999,No Guess,1,Iterated Dominance I,Croson_1999_23,Croson_1999_40,4,
-Croson_1999_219,Croson_1999,No Guess,1,Iterated Dominance I,Croson_1999_23,Croson_1999_41,4,
-Croson_1999_220,Croson_1999,No Guess,1,Iterated Dominance I,Croson_1999_23,Croson_1999_42,4,
-Croson_1999_221,Croson_1999,No Guess,1,Iterated dominance 2,Croson_1999_22,Croson_1999_23,1,
-Croson_1999_222,Croson_1999,No Guess,1,Iterated dominance 2,Croson_1999_23,Croson_1999_24,1,
-Croson_1999_223,Croson_1999,No Guess,1,Iterated dominance 2,Croson_1999_23,Croson_1999_25,2,
-Croson_1999_224,Croson_1999,No Guess,1,Iterated dominance 2,Croson_1999_23,Croson_1999_26,1,
-Croson_1999_225,Croson_1999,No Guess,1,Iterated dominance 2,Croson_1999_23,Croson_1999_27,2,
-Croson_1999_226,Croson_1999,No Guess,1,Iterated dominance 2,Croson_1999_23,Croson_1999_28,1,
-Croson_1999_227,Croson_1999,No Guess,1,Iterated dominance 2,Croson_1999_23,Croson_1999_29,2,
-Croson_1999_228,Croson_1999,No Guess,1,Iterated dominance 2,Croson_1999_23,Croson_1999_30,2,
-Croson_1999_229,Croson_1999,No Guess,1,Iterated dominance 2,Croson_1999_23,Croson_1999_31,2,
-Croson_1999_230,Croson_1999,No Guess,1,Iterated dominance 2,Croson_1999_23,Croson_1999_32,2,
-Croson_1999_231,Croson_1999,No Guess,1,Iterated dominance 2,Croson_1999_23,Croson_1999_33,4,
-Croson_1999_232,Croson_1999,No Guess,1,Iterated dominance 2,Croson_1999_23,Croson_1999_34,3,
-Croson_1999_233,Croson_1999,No Guess,1,Iterated dominance 2,Croson_1999_23,Croson_1999_35,3,
-Croson_1999_234,Croson_1999,No Guess,1,Iterated dominance 2,Croson_1999_23,Croson_1999_36,3,
-Croson_1999_235,Croson_1999,No Guess,1,Iterated dominance 2,Croson_1999_23,Croson_1999_37,3,
-Croson_1999_236,Croson_1999,No Guess,1,Iterated dominance 2,Croson_1999_23,Croson_1999_38,4,
-Croson_1999_237,Croson_1999,No Guess,1,Iterated dominance 2,Croson_1999_23,Croson_1999_39,3,
-Croson_1999_238,Croson_1999,No Guess,1,Iterated dominance 2,Croson_1999_23,Croson_1999_40,4,
-Croson_1999_239,Croson_1999,No Guess,1,Iterated dominance 2,Croson_1999_23,Croson_1999_41,3,
-Croson_1999_240,Croson_1999,No Guess,1,Iterated dominance 2,Croson_1999_23,Croson_1999_42,3,
-Croson_1999_241,Croson_1999,No Guess,1,Same reason,Croson_1999_22,Croson_1999_23,2,
-Croson_1999_242,Croson_1999,No Guess,1,Same reason,Croson_1999_23,Croson_1999_24,2,
-Croson_1999_243,Croson_1999,No Guess,1,Same reason,Croson_1999_23,Croson_1999_25,2,
-Croson_1999_244,Croson_1999,No Guess,1,Same reason,Croson_1999_23,Croson_1999_26,2,
-Croson_1999_245,Croson_1999,No Guess,1,Same reason,Croson_1999_23,Croson_1999_27,2,
-Croson_1999_246,Croson_1999,No Guess,1,Same reason,Croson_1999_23,Croson_1999_28,2,
-Croson_1999_247,Croson_1999,No Guess,1,Same reason,Croson_1999_23,Croson_1999_29,2,
-Croson_1999_248,Croson_1999,No Guess,1,Same reason,Croson_1999_23,Croson_1999_30,2,
-Croson_1999_249,Croson_1999,No Guess,1,Same reason,Croson_1999_23,Croson_1999_31,2,
-Croson_1999_250,Croson_1999,No Guess,1,Same reason,Croson_1999_23,Croson_1999_32,2,
-Croson_1999_251,Croson_1999,No Guess,1,Same reason,Croson_1999_23,Croson_1999_33,4,
-Croson_1999_252,Croson_1999,No Guess,1,Same reason,Croson_1999_23,Croson_1999_34,4,
-Croson_1999_253,Croson_1999,No Guess,1,Same reason,Croson_1999_23,Croson_1999_35,4,
-Croson_1999_254,Croson_1999,No Guess,1,Same reason,Croson_1999_23,Croson_1999_36,4,
-Croson_1999_255,Croson_1999,No Guess,1,Same reason,Croson_1999_23,Croson_1999_37,4,
-Croson_1999_256,Croson_1999,No Guess,1,Same reason,Croson_1999_23,Croson_1999_38,4,
-Croson_1999_257,Croson_1999,No Guess,1,Same reason,Croson_1999_23,Croson_1999_39,4,
-Croson_1999_258,Croson_1999,No Guess,1,Same reason,Croson_1999_23,Croson_1999_40,4,
-Croson_1999_259,Croson_1999,No Guess,1,Same reason,Croson_1999_23,Croson_1999_41,4,
-Croson_1999_260,Croson_1999,No Guess,1,Same reason,Croson_1999_23,Croson_1999_42,4,
-Croson_1999_261,Croson_1999,No Guess,1,Symmetric PD,Croson_1999_22,Croson_1999_23,1,
-Croson_1999_262,Croson_1999,No Guess,1,Symmetric PD,Croson_1999_23,Croson_1999_24,1,
-Croson_1999_263,Croson_1999,No Guess,1,Symmetric PD,Croson_1999_23,Croson_1999_25,1,
-Croson_1999_264,Croson_1999,No Guess,1,Symmetric PD,Croson_1999_23,Croson_1999_26,2,
-Croson_1999_265,Croson_1999,No Guess,1,Symmetric PD,Croson_1999_23,Croson_1999_27,1,
-Croson_1999_266,Croson_1999,No Guess,1,Symmetric PD,Croson_1999_23,Croson_1999_28,1,
-Croson_1999_267,Croson_1999,No Guess,1,Symmetric PD,Croson_1999_23,Croson_1999_29,2,
-Croson_1999_268,Croson_1999,No Guess,1,Symmetric PD,Croson_1999_23,Croson_1999_30,1,
-Croson_1999_269,Croson_1999,No Guess,1,Symmetric PD,Croson_1999_23,Croson_1999_31,1,
-Croson_1999_270,Croson_1999,No Guess,1,Symmetric PD,Croson_1999_23,Croson_1999_32,1,
-Croson_1999_271,Croson_1999,No Guess,1,Symmetric PD,Croson_1999_23,Croson_1999_33,3,
-Croson_1999_272,Croson_1999,No Guess,1,Symmetric PD,Croson_1999_23,Croson_1999_34,3,
-Croson_1999_273,Croson_1999,No Guess,1,Symmetric PD,Croson_1999_23,Croson_1999_35,3,
-Croson_1999_274,Croson_1999,No Guess,1,Symmetric PD,Croson_1999_23,Croson_1999_36,3,
-Croson_1999_275,Croson_1999,No Guess,1,Symmetric PD,Croson_1999_23,Croson_1999_37,4,
-Croson_1999_276,Croson_1999,No Guess,1,Symmetric PD,Croson_1999_23,Croson_1999_38,3,
-Croson_1999_277,Croson_1999,No Guess,1,Symmetric PD,Croson_1999_23,Croson_1999_39,3,
-Croson_1999_278,Croson_1999,No Guess,1,Symmetric PD,Croson_1999_23,Croson_1999_40,3,
-Croson_1999_279,Croson_1999,No Guess,1,Symmetric PD,Croson_1999_23,Croson_1999_41,3,
-Croson_1999_280,Croson_1999,No Guess,1,Symmetric PD,Croson_1999_23,Croson_1999_42,3,
-Croson_1999_281,Croson_1999,No Guess,1,asymmetric PD,Croson_1999_22,Croson_1999_23,1,
-Croson_1999_282,Croson_1999,No Guess,1,asymmetric PD,Croson_1999_23,Croson_1999_24,2,
-Croson_1999_283,Croson_1999,No Guess,1,asymmetric PD,Croson_1999_23,Croson_1999_25,1,
-Croson_1999_284,Croson_1999,No Guess,1,asymmetric PD,Croson_1999_23,Croson_1999_26,2,
-Croson_1999_285,Croson_1999,No Guess,1,asymmetric PD,Croson_1999_23,Croson_1999_27,1,
-Croson_1999_286,Croson_1999,No Guess,1,asymmetric PD,Croson_1999_23,Croson_1999_28,1,
-Croson_1999_287,Croson_1999,No Guess,1,asymmetric PD,Croson_1999_23,Croson_1999_29,2,
-Croson_1999_288,Croson_1999,No Guess,1,asymmetric PD,Croson_1999_23,Croson_1999_30,1,
-Croson_1999_289,Croson_1999,No Guess,1,asymmetric PD,Croson_1999_23,Croson_1999_31,1,
-Croson_1999_290,Croson_1999,No Guess,1,asymmetric PD,Croson_1999_23,Croson_1999_32,1,
-Croson_1999_291,Croson_1999,No Guess,1,asymmetric PD,Croson_1999_23,Croson_1999_33,3,
-Croson_1999_292,Croson_1999,No Guess,1,asymmetric PD,Croson_1999_23,Croson_1999_34,3,
-Croson_1999_293,Croson_1999,No Guess,1,asymmetric PD,Croson_1999_23,Croson_1999_35,4,
-Croson_1999_294,Croson_1999,No Guess,1,asymmetric PD,Croson_1999_23,Croson_1999_36,3,
-Croson_1999_295,Croson_1999,No Guess,1,asymmetric PD,Croson_1999_23,Croson_1999_37,3,
-Croson_1999_296,Croson_1999,No Guess,1,asymmetric PD,Croson_1999_23,Croson_1999_38,3,
-Croson_1999_297,Croson_1999,No Guess,1,asymmetric PD,Croson_1999_23,Croson_1999_39,4,
-Croson_1999_298,Croson_1999,No Guess,1,asymmetric PD,Croson_1999_23,Croson_1999_40,3,
-Croson_1999_299,Croson_1999,No Guess,1,asymmetric PD,Croson_1999_23,Croson_1999_41,3,
-Croson_1999_300,Croson_1999,No Guess,1,asymmetric PD,Croson_1999_23,Croson_1999_42,3,
-Croson_1999_301,Croson_1999,No Guess,2,Iterated Dominance I,Croson_1999_22,Croson_1999_23,1,
-Croson_1999_302,Croson_1999,No Guess,2,Iterated Dominance I,Croson_1999_23,Croson_1999_24,1,
-Croson_1999_303,Croson_1999,No Guess,2,Iterated Dominance I,Croson_1999_23,Croson_1999_25,1,
-Croson_1999_304,Croson_1999,No Guess,2,Iterated Dominance I,Croson_1999_23,Croson_1999_26,2,
-Croson_1999_305,Croson_1999,No Guess,2,Iterated Dominance I,Croson_1999_23,Croson_1999_27,2,
-Croson_1999_306,Croson_1999,No Guess,2,Iterated Dominance I,Croson_1999_23,Croson_1999_28,1,
-Croson_1999_307,Croson_1999,No Guess,2,Iterated Dominance I,Croson_1999_23,Croson_1999_29,1,
-Croson_1999_308,Croson_1999,No Guess,2,Iterated Dominance I,Croson_1999_23,Croson_1999_30,1,
-Croson_1999_309,Croson_1999,No Guess,2,Iterated Dominance I,Croson_1999_23,Croson_1999_31,2,
-Croson_1999_310,Croson_1999,No Guess,2,Iterated Dominance I,Croson_1999_23,Croson_1999_32,1,
-Croson_1999_311,Croson_1999,No Guess,2,Iterated Dominance I,Croson_1999_23,Croson_1999_33,3,
-Croson_1999_312,Croson_1999,No Guess,2,Iterated Dominance I,Croson_1999_23,Croson_1999_34,4,
-Croson_1999_313,Croson_1999,No Guess,2,Iterated Dominance I,Croson_1999_23,Croson_1999_35,4,
-Croson_1999_314,Croson_1999,No Guess,2,Iterated Dominance I,Croson_1999_23,Croson_1999_36,4,
-Croson_1999_315,Croson_1999,No Guess,2,Iterated Dominance I,Croson_1999_23,Croson_1999_37,4,
-Croson_1999_316,Croson_1999,No Guess,2,Iterated Dominance I,Croson_1999_23,Croson_1999_38,4,
-Croson_1999_317,Croson_1999,No Guess,2,Iterated Dominance I,Croson_1999_23,Croson_1999_39,4,
-Croson_1999_318,Croson_1999,No Guess,2,Iterated Dominance I,Croson_1999_23,Croson_1999_40,4,
-Croson_1999_319,Croson_1999,No Guess,2,Iterated Dominance I,Croson_1999_23,Croson_1999_41,3,
-Croson_1999_320,Croson_1999,No Guess,2,Iterated Dominance I,Croson_1999_23,Croson_1999_42,3,
-Croson_1999_321,Croson_1999,No Guess,2,Iterated dominance 2,Croson_1999_22,Croson_1999_23,1,
-Croson_1999_322,Croson_1999,No Guess,2,Iterated dominance 2,Croson_1999_23,Croson_1999_24,2,
-Croson_1999_323,Croson_1999,No Guess,2,Iterated dominance 2,Croson_1999_23,Croson_1999_25,1,
-Croson_1999_324,Croson_1999,No Guess,2,Iterated dominance 2,Croson_1999_23,Croson_1999_26,2,
-Croson_1999_325,Croson_1999,No Guess,2,Iterated dominance 2,Croson_1999_23,Croson_1999_27,2,
-Croson_1999_326,Croson_1999,No Guess,2,Iterated dominance 2,Croson_1999_23,Croson_1999_28,1,
-Croson_1999_327,Croson_1999,No Guess,2,Iterated dominance 2,Croson_1999_23,Croson_1999_29,2,
-Croson_1999_328,Croson_1999,No Guess,2,Iterated dominance 2,Croson_1999_23,Croson_1999_30,1,
-Croson_1999_329,Croson_1999,No Guess,2,Iterated dominance 2,Croson_1999_23,Croson_1999_31,2,
-Croson_1999_330,Croson_1999,No Guess,2,Iterated dominance 2,Croson_1999_23,Croson_1999_32,2,
-Croson_1999_331,Croson_1999,No Guess,2,Iterated dominance 2,Croson_1999_23,Croson_1999_33,4,
-Croson_1999_332,Croson_1999,No Guess,2,Iterated dominance 2,Croson_1999_23,Croson_1999_34,3,
-Croson_1999_333,Croson_1999,No Guess,2,Iterated dominance 2,Croson_1999_23,Croson_1999_35,3,
-Croson_1999_334,Croson_1999,No Guess,2,Iterated dominance 2,Croson_1999_23,Croson_1999_36,4,
-Croson_1999_335,Croson_1999,No Guess,2,Iterated dominance 2,Croson_1999_23,Croson_1999_37,3,
-Croson_1999_336,Croson_1999,No Guess,2,Iterated dominance 2,Croson_1999_23,Croson_1999_38,3,
-Croson_1999_337,Croson_1999,No Guess,2,Iterated dominance 2,Croson_1999_23,Croson_1999_39,3,
-Croson_1999_338,Croson_1999,No Guess,2,Iterated dominance 2,Croson_1999_23,Croson_1999_40,4,
-Croson_1999_339,Croson_1999,No Guess,2,Iterated dominance 2,Croson_1999_23,Croson_1999_41,3,
-Croson_1999_340,Croson_1999,No Guess,2,Iterated dominance 2,Croson_1999_23,Croson_1999_42,3,
-Croson_1999_341,Croson_1999,No Guess,2,Same reason,Croson_1999_22,Croson_1999_23,2,
-Croson_1999_342,Croson_1999,No Guess,2,Same reason,Croson_1999_23,Croson_1999_24,2,
-Croson_1999_343,Croson_1999,No Guess,2,Same reason,Croson_1999_23,Croson_1999_25,2,
-Croson_1999_344,Croson_1999,No Guess,2,Same reason,Croson_1999_23,Croson_1999_26,2,
-Croson_1999_345,Croson_1999,No Guess,2,Same reason,Croson_1999_23,Croson_1999_27,2,
-Croson_1999_346,Croson_1999,No Guess,2,Same reason,Croson_1999_23,Croson_1999_28,1,
-Croson_1999_347,Croson_1999,No Guess,2,Same reason,Croson_1999_23,Croson_1999_29,1,
-Croson_1999_348,Croson_1999,No Guess,2,Same reason,Croson_1999_23,Croson_1999_30,2,
-Croson_1999_349,Croson_1999,No Guess,2,Same reason,Croson_1999_23,Croson_1999_31,2,
-Croson_1999_350,Croson_1999,No Guess,2,Same reason,Croson_1999_23,Croson_1999_32,2,
-Croson_1999_351,Croson_1999,No Guess,2,Same reason,Croson_1999_23,Croson_1999_33,4,
-Croson_1999_352,Croson_1999,No Guess,2,Same reason,Croson_1999_23,Croson_1999_34,4,
-Croson_1999_353,Croson_1999,No Guess,2,Same reason,Croson_1999_23,Croson_1999_35,4,
-Croson_1999_354,Croson_1999,No Guess,2,Same reason,Croson_1999_23,Croson_1999_36,4,
-Croson_1999_355,Croson_1999,No Guess,2,Same reason,Croson_1999_23,Croson_1999_37,3,
-Croson_1999_356,Croson_1999,No Guess,2,Same reason,Croson_1999_23,Croson_1999_38,4,
-Croson_1999_357,Croson_1999,No Guess,2,Same reason,Croson_1999_23,Croson_1999_39,3,
-Croson_1999_358,Croson_1999,No Guess,2,Same reason,Croson_1999_23,Croson_1999_40,4,
-Croson_1999_359,Croson_1999,No Guess,2,Same reason,Croson_1999_23,Croson_1999_41,3,
-Croson_1999_360,Croson_1999,No Guess,2,Same reason,Croson_1999_23,Croson_1999_42,4,
-Croson_1999_361,Croson_1999,No Guess,2,Symmetric PD,Croson_1999_22,Croson_1999_23,1,
-Croson_1999_362,Croson_1999,No Guess,2,Symmetric PD,Croson_1999_23,Croson_1999_24,2,
-Croson_1999_363,Croson_1999,No Guess,2,Symmetric PD,Croson_1999_23,Croson_1999_25,1,
-Croson_1999_364,Croson_1999,No Guess,2,Symmetric PD,Croson_1999_23,Croson_1999_26,1,
-Croson_1999_365,Croson_1999,No Guess,2,Symmetric PD,Croson_1999_23,Croson_1999_27,2,
-Croson_1999_366,Croson_1999,No Guess,2,Symmetric PD,Croson_1999_23,Croson_1999_28,1,
-Croson_1999_367,Croson_1999,No Guess,2,Symmetric PD,Croson_1999_23,Croson_1999_29,2,
-Croson_1999_368,Croson_1999,No Guess,2,Symmetric PD,Croson_1999_23,Croson_1999_30,2,
-Croson_1999_369,Croson_1999,No Guess,2,Symmetric PD,Croson_1999_23,Croson_1999_31,2,
-Croson_1999_370,Croson_1999,No Guess,2,Symmetric PD,Croson_1999_23,Croson_1999_32,1,
-Croson_1999_371,Croson_1999,No Guess,2,Symmetric PD,Croson_1999_23,Croson_1999_33,3,
-Croson_1999_372,Croson_1999,No Guess,2,Symmetric PD,Croson_1999_23,Croson_1999_34,3,
-Croson_1999_373,Croson_1999,No Guess,2,Symmetric PD,Croson_1999_23,Croson_1999_35,3,
-Croson_1999_374,Croson_1999,No Guess,2,Symmetric PD,Croson_1999_23,Croson_1999_36,3,
-Croson_1999_375,Croson_1999,No Guess,2,Symmetric PD,Croson_1999_23,Croson_1999_37,3,
-Croson_1999_376,Croson_1999,No Guess,2,Symmetric PD,Croson_1999_23,Croson_1999_38,4,
-Croson_1999_377,Croson_1999,No Guess,2,Symmetric PD,Croson_1999_23,Croson_1999_39,3,
-Croson_1999_378,Croson_1999,No Guess,2,Symmetric PD,Croson_1999_23,Croson_1999_40,3,
-Croson_1999_379,Croson_1999,No Guess,2,Symmetric PD,Croson_1999_23,Croson_1999_41,3,
-Croson_1999_380,Croson_1999,No Guess,2,Symmetric PD,Croson_1999_23,Croson_1999_42,3,
-Croson_1999_381,Croson_1999,No Guess,2,asymmetric PD,Croson_1999_22,Croson_1999_23,1,
-Croson_1999_382,Croson_1999,No Guess,2,asymmetric PD,Croson_1999_23,Croson_1999_24,2,
-Croson_1999_383,Croson_1999,No Guess,2,asymmetric PD,Croson_1999_23,Croson_1999_25,2,
-Croson_1999_384,Croson_1999,No Guess,2,asymmetric PD,Croson_1999_23,Croson_1999_26,1,
-Croson_1999_385,Croson_1999,No Guess,2,asymmetric PD,Croson_1999_23,Croson_1999_27,1,
-Croson_1999_386,Croson_1999,No Guess,2,asymmetric PD,Croson_1999_23,Croson_1999_28,2,
-Croson_1999_387,Croson_1999,No Guess,2,asymmetric PD,Croson_1999_23,Croson_1999_29,1,
-Croson_1999_388,Croson_1999,No Guess,2,asymmetric PD,Croson_1999_23,Croson_1999_30,1,
-Croson_1999_389,Croson_1999,No Guess,2,asymmetric PD,Croson_1999_23,Croson_1999_31,2,
-Croson_1999_390,Croson_1999,No Guess,2,asymmetric PD,Croson_1999_23,Croson_1999_32,1,
-Croson_1999_391,Croson_1999,No Guess,2,asymmetric PD,Croson_1999_23,Croson_1999_33,3,
-Croson_1999_392,Croson_1999,No Guess,2,asymmetric PD,Croson_1999_23,Croson_1999_34,3,
-Croson_1999_393,Croson_1999,No Guess,2,asymmetric PD,Croson_1999_23,Croson_1999_35,3,
-Croson_1999_394,Croson_1999,No Guess,2,asymmetric PD,Croson_1999_23,Croson_1999_36,4,
-Croson_1999_395,Croson_1999,No Guess,2,asymmetric PD,Croson_1999_23,Croson_1999_37,3,
-Croson_1999_396,Croson_1999,No Guess,2,asymmetric PD,Croson_1999_23,Croson_1999_38,4,
-Croson_1999_397,Croson_1999,No Guess,2,asymmetric PD,Croson_1999_23,Croson_1999_39,4,
-Croson_1999_398,Croson_1999,No Guess,2,asymmetric PD,Croson_1999_23,Croson_1999_40,3,
-Croson_1999_399,Croson_1999,No Guess,2,asymmetric PD,Croson_1999_23,Croson_1999_41,4,
-Croson_1999_400,Croson_1999,No Guess,2,asymmetric PD,Croson_1999_23,Croson_1999_42,3,
+match_id,dataset_id,treatment,session,round,player_1_id,player_2_id,player_1_choice,player_2_choice,from
+Croson_1999_1,Croson_1999,Guess,1,Iterated Dominance I,Croson_1999_1,Croson_1999_2,1,,80_81
+Croson_1999_2,Croson_1999,Guess,1,Iterated Dominance I,Croson_1999_2,Croson_1999_10,1,,88_89
+Croson_1999_3,Croson_1999,Guess,1,Iterated Dominance I,Croson_1999_2,Croson_1999_11,2,,89_90
+Croson_1999_4,Croson_1999,Guess,1,Iterated Dominance I,Croson_1999_2,Croson_1999_12,4,,100_101
+Croson_1999_5,Croson_1999,Guess,1,Iterated Dominance I,Croson_1999_2,Croson_1999_13,4,,101_102
+Croson_1999_6,Croson_1999,Guess,1,Iterated Dominance I,Croson_1999_2,Croson_1999_14,4,,102_103
+Croson_1999_7,Croson_1999,Guess,1,Iterated Dominance I,Croson_1999_2,Croson_1999_15,4,,103_104
+Croson_1999_8,Croson_1999,Guess,1,Iterated Dominance I,Croson_1999_2,Croson_1999_16,4,,104_105
+Croson_1999_9,Croson_1999,Guess,1,Iterated Dominance I,Croson_1999_2,Croson_1999_17,3,,105_106
+Croson_1999_10,Croson_1999,Guess,1,Iterated Dominance I,Croson_1999_2,Croson_1999_18,4,,106_107
+Croson_1999_11,Croson_1999,Guess,1,Iterated Dominance I,Croson_1999_2,Croson_1999_19,4,,107_108
+Croson_1999_12,Croson_1999,Guess,1,Iterated Dominance I,Croson_1999_2,Croson_1999_20,3,,108_109
+Croson_1999_13,Croson_1999,Guess,1,Iterated Dominance I,Croson_1999_2,Croson_1999_21,4,,109_110
+Croson_1999_14,Croson_1999,Guess,1,Iterated Dominance I,Croson_1999_2,Croson_1999_3,1,,81_82
+Croson_1999_15,Croson_1999,Guess,1,Iterated Dominance I,Croson_1999_2,Croson_1999_4,2,,82_83
+Croson_1999_16,Croson_1999,Guess,1,Iterated Dominance I,Croson_1999_2,Croson_1999_5,1,,83_84
+Croson_1999_17,Croson_1999,Guess,1,Iterated Dominance I,Croson_1999_2,Croson_1999_6,2,,84_85
+Croson_1999_18,Croson_1999,Guess,1,Iterated Dominance I,Croson_1999_2,Croson_1999_7,1,,85_86
+Croson_1999_19,Croson_1999,Guess,1,Iterated Dominance I,Croson_1999_2,Croson_1999_8,1,,86_87
+Croson_1999_20,Croson_1999,Guess,1,Iterated Dominance I,Croson_1999_2,Croson_1999_9,1,,87_88
+Croson_1999_21,Croson_1999,Guess,1,Iterated dominance 2,Croson_1999_1,Croson_1999_2,2,,120_121
+Croson_1999_22,Croson_1999,Guess,1,Iterated dominance 2,Croson_1999_2,Croson_1999_10,2,,128_129
+Croson_1999_23,Croson_1999,Guess,1,Iterated dominance 2,Croson_1999_2,Croson_1999_11,1,,129_130
+Croson_1999_24,Croson_1999,Guess,1,Iterated dominance 2,Croson_1999_2,Croson_1999_12,4,,140_141
+Croson_1999_25,Croson_1999,Guess,1,Iterated dominance 2,Croson_1999_2,Croson_1999_13,3,,141_142
+Croson_1999_26,Croson_1999,Guess,1,Iterated dominance 2,Croson_1999_2,Croson_1999_14,4,,142_143
+Croson_1999_27,Croson_1999,Guess,1,Iterated dominance 2,Croson_1999_2,Croson_1999_15,3,,143_144
+Croson_1999_28,Croson_1999,Guess,1,Iterated dominance 2,Croson_1999_2,Croson_1999_16,3,,144_145
+Croson_1999_29,Croson_1999,Guess,1,Iterated dominance 2,Croson_1999_2,Croson_1999_17,4,,145_146
+Croson_1999_30,Croson_1999,Guess,1,Iterated dominance 2,Croson_1999_2,Croson_1999_18,4,,146_147
+Croson_1999_31,Croson_1999,Guess,1,Iterated dominance 2,Croson_1999_2,Croson_1999_19,4,,147_148
+Croson_1999_32,Croson_1999,Guess,1,Iterated dominance 2,Croson_1999_2,Croson_1999_20,3,,148_149
+Croson_1999_33,Croson_1999,Guess,1,Iterated dominance 2,Croson_1999_2,Croson_1999_21,4,,149_150
+Croson_1999_34,Croson_1999,Guess,1,Iterated dominance 2,Croson_1999_2,Croson_1999_3,2,,121_122
+Croson_1999_35,Croson_1999,Guess,1,Iterated dominance 2,Croson_1999_2,Croson_1999_4,2,,122_123
+Croson_1999_36,Croson_1999,Guess,1,Iterated dominance 2,Croson_1999_2,Croson_1999_5,2,,123_124
+Croson_1999_37,Croson_1999,Guess,1,Iterated dominance 2,Croson_1999_2,Croson_1999_6,2,,124_125
+Croson_1999_38,Croson_1999,Guess,1,Iterated dominance 2,Croson_1999_2,Croson_1999_7,1,,125_126
+Croson_1999_39,Croson_1999,Guess,1,Iterated dominance 2,Croson_1999_2,Croson_1999_8,2,,126_127
+Croson_1999_40,Croson_1999,Guess,1,Iterated dominance 2,Croson_1999_2,Croson_1999_9,2,,127_128
+Croson_1999_41,Croson_1999,Guess,1,Same reason,Croson_1999_1,Croson_1999_2,2,,160_161
+Croson_1999_42,Croson_1999,Guess,1,Same reason,Croson_1999_2,Croson_1999_10,2,,168_169
+Croson_1999_43,Croson_1999,Guess,1,Same reason,Croson_1999_2,Croson_1999_11,2,,169_170
+Croson_1999_44,Croson_1999,Guess,1,Same reason,Croson_1999_2,Croson_1999_12,4,,180_181
+Croson_1999_45,Croson_1999,Guess,1,Same reason,Croson_1999_2,Croson_1999_13,4,,181_182
+Croson_1999_46,Croson_1999,Guess,1,Same reason,Croson_1999_2,Croson_1999_14,4,,182_183
+Croson_1999_47,Croson_1999,Guess,1,Same reason,Croson_1999_2,Croson_1999_15,4,,183_184
+Croson_1999_48,Croson_1999,Guess,1,Same reason,Croson_1999_2,Croson_1999_16,4,,184_185
+Croson_1999_49,Croson_1999,Guess,1,Same reason,Croson_1999_2,Croson_1999_17,4,,185_186
+Croson_1999_50,Croson_1999,Guess,1,Same reason,Croson_1999_2,Croson_1999_18,4,,186_187
+Croson_1999_51,Croson_1999,Guess,1,Same reason,Croson_1999_2,Croson_1999_19,4,,187_188
+Croson_1999_52,Croson_1999,Guess,1,Same reason,Croson_1999_2,Croson_1999_20,4,,188_189
+Croson_1999_53,Croson_1999,Guess,1,Same reason,Croson_1999_2,Croson_1999_21,4,,189_190
+Croson_1999_54,Croson_1999,Guess,1,Same reason,Croson_1999_2,Croson_1999_3,2,,161_162
+Croson_1999_55,Croson_1999,Guess,1,Same reason,Croson_1999_2,Croson_1999_4,2,,162_163
+Croson_1999_56,Croson_1999,Guess,1,Same reason,Croson_1999_2,Croson_1999_5,2,,163_164
+Croson_1999_57,Croson_1999,Guess,1,Same reason,Croson_1999_2,Croson_1999_6,2,,164_165
+Croson_1999_58,Croson_1999,Guess,1,Same reason,Croson_1999_2,Croson_1999_7,2,,165_166
+Croson_1999_59,Croson_1999,Guess,1,Same reason,Croson_1999_2,Croson_1999_8,2,,166_167
+Croson_1999_60,Croson_1999,Guess,1,Same reason,Croson_1999_2,Croson_1999_9,1,,167_168
+Croson_1999_61,Croson_1999,Guess,1,Symmetric PD,Croson_1999_1,Croson_1999_2,2,,0_1
+Croson_1999_62,Croson_1999,Guess,1,Symmetric PD,Croson_1999_2,Croson_1999_10,1,,8_9
+Croson_1999_63,Croson_1999,Guess,1,Symmetric PD,Croson_1999_2,Croson_1999_11,2,,9_10
+Croson_1999_64,Croson_1999,Guess,1,Symmetric PD,Croson_1999_2,Croson_1999_12,3,,20_21
+Croson_1999_65,Croson_1999,Guess,1,Symmetric PD,Croson_1999_2,Croson_1999_13,3,,21_22
+Croson_1999_66,Croson_1999,Guess,1,Symmetric PD,Croson_1999_2,Croson_1999_14,4,,22_23
+Croson_1999_67,Croson_1999,Guess,1,Symmetric PD,Croson_1999_2,Croson_1999_15,3,,23_24
+Croson_1999_68,Croson_1999,Guess,1,Symmetric PD,Croson_1999_2,Croson_1999_16,3,,24_25
+Croson_1999_69,Croson_1999,Guess,1,Symmetric PD,Croson_1999_2,Croson_1999_17,4,,25_26
+Croson_1999_70,Croson_1999,Guess,1,Symmetric PD,Croson_1999_2,Croson_1999_18,3,,26_27
+Croson_1999_71,Croson_1999,Guess,1,Symmetric PD,Croson_1999_2,Croson_1999_19,3,,27_28
+Croson_1999_72,Croson_1999,Guess,1,Symmetric PD,Croson_1999_2,Croson_1999_20,4,,28_29
+Croson_1999_73,Croson_1999,Guess,1,Symmetric PD,Croson_1999_2,Croson_1999_21,3,,29_30
+Croson_1999_74,Croson_1999,Guess,1,Symmetric PD,Croson_1999_2,Croson_1999_3,1,,1_2
+Croson_1999_75,Croson_1999,Guess,1,Symmetric PD,Croson_1999_2,Croson_1999_4,1,,2_3
+Croson_1999_76,Croson_1999,Guess,1,Symmetric PD,Croson_1999_2,Croson_1999_5,1,,3_4
+Croson_1999_77,Croson_1999,Guess,1,Symmetric PD,Croson_1999_2,Croson_1999_6,1,,4_5
+Croson_1999_78,Croson_1999,Guess,1,Symmetric PD,Croson_1999_2,Croson_1999_7,2,,5_6
+Croson_1999_79,Croson_1999,Guess,1,Symmetric PD,Croson_1999_2,Croson_1999_8,1,,6_7
+Croson_1999_80,Croson_1999,Guess,1,Symmetric PD,Croson_1999_2,Croson_1999_9,2,,7_8
+Croson_1999_81,Croson_1999,Guess,1,asymmetric PD,Croson_1999_1,Croson_1999_2,1,,40_41
+Croson_1999_82,Croson_1999,Guess,1,asymmetric PD,Croson_1999_2,Croson_1999_10,1,,48_49
+Croson_1999_83,Croson_1999,Guess,1,asymmetric PD,Croson_1999_2,Croson_1999_11,2,,49_50
+Croson_1999_84,Croson_1999,Guess,1,asymmetric PD,Croson_1999_2,Croson_1999_12,3,,60_61
+Croson_1999_85,Croson_1999,Guess,1,asymmetric PD,Croson_1999_2,Croson_1999_13,3,,61_62
+Croson_1999_86,Croson_1999,Guess,1,asymmetric PD,Croson_1999_2,Croson_1999_14,4,,62_63
+Croson_1999_87,Croson_1999,Guess,1,asymmetric PD,Croson_1999_2,Croson_1999_15,3,,63_64
+Croson_1999_88,Croson_1999,Guess,1,asymmetric PD,Croson_1999_2,Croson_1999_16,4,,64_65
+Croson_1999_89,Croson_1999,Guess,1,asymmetric PD,Croson_1999_2,Croson_1999_17,3,,65_66
+Croson_1999_90,Croson_1999,Guess,1,asymmetric PD,Croson_1999_2,Croson_1999_18,4,,66_67
+Croson_1999_91,Croson_1999,Guess,1,asymmetric PD,Croson_1999_2,Croson_1999_19,4,,67_68
+Croson_1999_92,Croson_1999,Guess,1,asymmetric PD,Croson_1999_2,Croson_1999_20,3,,68_69
+Croson_1999_93,Croson_1999,Guess,1,asymmetric PD,Croson_1999_2,Croson_1999_21,4,,69_70
+Croson_1999_94,Croson_1999,Guess,1,asymmetric PD,Croson_1999_2,Croson_1999_3,1,,41_42
+Croson_1999_95,Croson_1999,Guess,1,asymmetric PD,Croson_1999_2,Croson_1999_4,1,,42_43
+Croson_1999_96,Croson_1999,Guess,1,asymmetric PD,Croson_1999_2,Croson_1999_5,2,,43_44
+Croson_1999_97,Croson_1999,Guess,1,asymmetric PD,Croson_1999_2,Croson_1999_6,1,,44_45
+Croson_1999_98,Croson_1999,Guess,1,asymmetric PD,Croson_1999_2,Croson_1999_7,2,,45_46
+Croson_1999_99,Croson_1999,Guess,1,asymmetric PD,Croson_1999_2,Croson_1999_8,2,,46_47
+Croson_1999_100,Croson_1999,Guess,1,asymmetric PD,Croson_1999_2,Croson_1999_9,1,,47_48
+Croson_1999_101,Croson_1999,Guess,2,Iterated Dominance I,Croson_1999_1,Croson_1999_2,1,,90_91
+Croson_1999_102,Croson_1999,Guess,2,Iterated Dominance I,Croson_1999_2,Croson_1999_10,2,,98_99
+Croson_1999_103,Croson_1999,Guess,2,Iterated Dominance I,Croson_1999_2,Croson_1999_11,2,,99_100
+Croson_1999_104,Croson_1999,Guess,2,Iterated Dominance I,Croson_1999_2,Croson_1999_12,4,,110_111
+Croson_1999_105,Croson_1999,Guess,2,Iterated Dominance I,Croson_1999_2,Croson_1999_13,3,,111_112
+Croson_1999_106,Croson_1999,Guess,2,Iterated Dominance I,Croson_1999_2,Croson_1999_14,4,,112_113
+Croson_1999_107,Croson_1999,Guess,2,Iterated Dominance I,Croson_1999_2,Croson_1999_15,4,,113_114
+Croson_1999_108,Croson_1999,Guess,2,Iterated Dominance I,Croson_1999_2,Croson_1999_16,3,,114_115
+Croson_1999_109,Croson_1999,Guess,2,Iterated Dominance I,Croson_1999_2,Croson_1999_17,4,,115_116
+Croson_1999_110,Croson_1999,Guess,2,Iterated Dominance I,Croson_1999_2,Croson_1999_18,4,,116_117
+Croson_1999_111,Croson_1999,Guess,2,Iterated Dominance I,Croson_1999_2,Croson_1999_19,4,,117_118
+Croson_1999_112,Croson_1999,Guess,2,Iterated Dominance I,Croson_1999_2,Croson_1999_20,3,,118_119
+Croson_1999_113,Croson_1999,Guess,2,Iterated Dominance I,Croson_1999_2,Croson_1999_21,4,,119_120
+Croson_1999_114,Croson_1999,Guess,2,Iterated Dominance I,Croson_1999_2,Croson_1999_3,1,,91_92
+Croson_1999_115,Croson_1999,Guess,2,Iterated Dominance I,Croson_1999_2,Croson_1999_4,2,,92_93
+Croson_1999_116,Croson_1999,Guess,2,Iterated Dominance I,Croson_1999_2,Croson_1999_5,1,,93_94
+Croson_1999_117,Croson_1999,Guess,2,Iterated Dominance I,Croson_1999_2,Croson_1999_6,2,,94_95
+Croson_1999_118,Croson_1999,Guess,2,Iterated Dominance I,Croson_1999_2,Croson_1999_7,1,,95_96
+Croson_1999_119,Croson_1999,Guess,2,Iterated Dominance I,Croson_1999_2,Croson_1999_8,2,,96_97
+Croson_1999_120,Croson_1999,Guess,2,Iterated Dominance I,Croson_1999_2,Croson_1999_9,2,,97_98
+Croson_1999_121,Croson_1999,Guess,2,Iterated dominance 2,Croson_1999_1,Croson_1999_2,2,,130_131
+Croson_1999_122,Croson_1999,Guess,2,Iterated dominance 2,Croson_1999_2,Croson_1999_10,2,,138_139
+Croson_1999_123,Croson_1999,Guess,2,Iterated dominance 2,Croson_1999_2,Croson_1999_11,2,,139_140
+Croson_1999_124,Croson_1999,Guess,2,Iterated dominance 2,Croson_1999_2,Croson_1999_12,4,,150_151
+Croson_1999_125,Croson_1999,Guess,2,Iterated dominance 2,Croson_1999_2,Croson_1999_13,4,,151_152
+Croson_1999_126,Croson_1999,Guess,2,Iterated dominance 2,Croson_1999_2,Croson_1999_14,4,,152_153
+Croson_1999_127,Croson_1999,Guess,2,Iterated dominance 2,Croson_1999_2,Croson_1999_15,3,,153_154
+Croson_1999_128,Croson_1999,Guess,2,Iterated dominance 2,Croson_1999_2,Croson_1999_16,4,,154_155
+Croson_1999_129,Croson_1999,Guess,2,Iterated dominance 2,Croson_1999_2,Croson_1999_17,3,,155_156
+Croson_1999_130,Croson_1999,Guess,2,Iterated dominance 2,Croson_1999_2,Croson_1999_18,4,,156_157
+Croson_1999_131,Croson_1999,Guess,2,Iterated dominance 2,Croson_1999_2,Croson_1999_19,4,,157_158
+Croson_1999_132,Croson_1999,Guess,2,Iterated dominance 2,Croson_1999_2,Croson_1999_20,3,,158_159
+Croson_1999_133,Croson_1999,Guess,2,Iterated dominance 2,Croson_1999_2,Croson_1999_21,4,,159_160
+Croson_1999_134,Croson_1999,Guess,2,Iterated dominance 2,Croson_1999_2,Croson_1999_3,2,,131_132
+Croson_1999_135,Croson_1999,Guess,2,Iterated dominance 2,Croson_1999_2,Croson_1999_4,2,,132_133
+Croson_1999_136,Croson_1999,Guess,2,Iterated dominance 2,Croson_1999_2,Croson_1999_5,2,,133_134
+Croson_1999_137,Croson_1999,Guess,2,Iterated dominance 2,Croson_1999_2,Croson_1999_6,2,,134_135
+Croson_1999_138,Croson_1999,Guess,2,Iterated dominance 2,Croson_1999_2,Croson_1999_7,1,,135_136
+Croson_1999_139,Croson_1999,Guess,2,Iterated dominance 2,Croson_1999_2,Croson_1999_8,2,,136_137
+Croson_1999_140,Croson_1999,Guess,2,Iterated dominance 2,Croson_1999_2,Croson_1999_9,2,,137_138
+Croson_1999_141,Croson_1999,Guess,2,Same reason,Croson_1999_1,Croson_1999_2,1,,170_171
+Croson_1999_142,Croson_1999,Guess,2,Same reason,Croson_1999_2,Croson_1999_10,2,,178_179
+Croson_1999_143,Croson_1999,Guess,2,Same reason,Croson_1999_2,Croson_1999_11,2,,179_180
+Croson_1999_144,Croson_1999,Guess,2,Same reason,Croson_1999_2,Croson_1999_12,4,,190_191
+Croson_1999_145,Croson_1999,Guess,2,Same reason,Croson_1999_2,Croson_1999_13,4,,191_192
+Croson_1999_146,Croson_1999,Guess,2,Same reason,Croson_1999_2,Croson_1999_14,4,,192_193
+Croson_1999_147,Croson_1999,Guess,2,Same reason,Croson_1999_2,Croson_1999_15,4,,193_194
+Croson_1999_148,Croson_1999,Guess,2,Same reason,Croson_1999_2,Croson_1999_16,4,,194_195
+Croson_1999_149,Croson_1999,Guess,2,Same reason,Croson_1999_2,Croson_1999_17,4,,195_196
+Croson_1999_150,Croson_1999,Guess,2,Same reason,Croson_1999_2,Croson_1999_18,4,,196_197
+Croson_1999_151,Croson_1999,Guess,2,Same reason,Croson_1999_2,Croson_1999_19,4,,197_198
+Croson_1999_152,Croson_1999,Guess,2,Same reason,Croson_1999_2,Croson_1999_20,4,,198_199
+Croson_1999_153,Croson_1999,Guess,2,Same reason,Croson_1999_2,Croson_1999_21,4,,199_200
+Croson_1999_154,Croson_1999,Guess,2,Same reason,Croson_1999_2,Croson_1999_3,2,,171_172
+Croson_1999_155,Croson_1999,Guess,2,Same reason,Croson_1999_2,Croson_1999_4,2,,172_173
+Croson_1999_156,Croson_1999,Guess,2,Same reason,Croson_1999_2,Croson_1999_5,2,,173_174
+Croson_1999_157,Croson_1999,Guess,2,Same reason,Croson_1999_2,Croson_1999_6,2,,174_175
+Croson_1999_158,Croson_1999,Guess,2,Same reason,Croson_1999_2,Croson_1999_7,2,,175_176
+Croson_1999_159,Croson_1999,Guess,2,Same reason,Croson_1999_2,Croson_1999_8,2,,176_177
+Croson_1999_160,Croson_1999,Guess,2,Same reason,Croson_1999_2,Croson_1999_9,2,,177_178
+Croson_1999_161,Croson_1999,Guess,2,Symmetric PD,Croson_1999_1,Croson_1999_2,1,,10_11
+Croson_1999_162,Croson_1999,Guess,2,Symmetric PD,Croson_1999_2,Croson_1999_10,2,,18_19
+Croson_1999_163,Croson_1999,Guess,2,Symmetric PD,Croson_1999_2,Croson_1999_11,1,,19_20
+Croson_1999_164,Croson_1999,Guess,2,Symmetric PD,Croson_1999_2,Croson_1999_12,4,,30_31
+Croson_1999_165,Croson_1999,Guess,2,Symmetric PD,Croson_1999_2,Croson_1999_13,4,,31_32
+Croson_1999_166,Croson_1999,Guess,2,Symmetric PD,Croson_1999_2,Croson_1999_14,4,,32_33
+Croson_1999_167,Croson_1999,Guess,2,Symmetric PD,Croson_1999_2,Croson_1999_15,4,,33_34
+Croson_1999_168,Croson_1999,Guess,2,Symmetric PD,Croson_1999_2,Croson_1999_16,4,,34_35
+Croson_1999_169,Croson_1999,Guess,2,Symmetric PD,Croson_1999_2,Croson_1999_17,3,,35_36
+Croson_1999_170,Croson_1999,Guess,2,Symmetric PD,Croson_1999_2,Croson_1999_18,4,,36_37
+Croson_1999_171,Croson_1999,Guess,2,Symmetric PD,Croson_1999_2,Croson_1999_19,3,,37_38
+Croson_1999_172,Croson_1999,Guess,2,Symmetric PD,Croson_1999_2,Croson_1999_20,3,,38_39
+Croson_1999_173,Croson_1999,Guess,2,Symmetric PD,Croson_1999_2,Croson_1999_21,4,,39_40
+Croson_1999_174,Croson_1999,Guess,2,Symmetric PD,Croson_1999_2,Croson_1999_3,2,,11_12
+Croson_1999_175,Croson_1999,Guess,2,Symmetric PD,Croson_1999_2,Croson_1999_4,1,,12_13
+Croson_1999_176,Croson_1999,Guess,2,Symmetric PD,Croson_1999_2,Croson_1999_5,1,,13_14
+Croson_1999_177,Croson_1999,Guess,2,Symmetric PD,Croson_1999_2,Croson_1999_6,1,,14_15
+Croson_1999_178,Croson_1999,Guess,2,Symmetric PD,Croson_1999_2,Croson_1999_7,1,,15_16
+Croson_1999_179,Croson_1999,Guess,2,Symmetric PD,Croson_1999_2,Croson_1999_8,2,,16_17
+Croson_1999_180,Croson_1999,Guess,2,Symmetric PD,Croson_1999_2,Croson_1999_9,2,,17_18
+Croson_1999_181,Croson_1999,Guess,2,asymmetric PD,Croson_1999_1,Croson_1999_2,2,,50_51
+Croson_1999_182,Croson_1999,Guess,2,asymmetric PD,Croson_1999_2,Croson_1999_10,2,,58_59
+Croson_1999_183,Croson_1999,Guess,2,asymmetric PD,Croson_1999_2,Croson_1999_11,2,,59_60
+Croson_1999_184,Croson_1999,Guess,2,asymmetric PD,Croson_1999_2,Croson_1999_12,4,,70_71
+Croson_1999_185,Croson_1999,Guess,2,asymmetric PD,Croson_1999_2,Croson_1999_13,4,,71_72
+Croson_1999_186,Croson_1999,Guess,2,asymmetric PD,Croson_1999_2,Croson_1999_14,4,,72_73
+Croson_1999_187,Croson_1999,Guess,2,asymmetric PD,Croson_1999_2,Croson_1999_15,4,,73_74
+Croson_1999_188,Croson_1999,Guess,2,asymmetric PD,Croson_1999_2,Croson_1999_16,3,,74_75
+Croson_1999_189,Croson_1999,Guess,2,asymmetric PD,Croson_1999_2,Croson_1999_17,3,,75_76
+Croson_1999_190,Croson_1999,Guess,2,asymmetric PD,Croson_1999_2,Croson_1999_18,4,,76_77
+Croson_1999_191,Croson_1999,Guess,2,asymmetric PD,Croson_1999_2,Croson_1999_19,3,,77_78
+Croson_1999_192,Croson_1999,Guess,2,asymmetric PD,Croson_1999_2,Croson_1999_20,4,,78_79
+Croson_1999_193,Croson_1999,Guess,2,asymmetric PD,Croson_1999_2,Croson_1999_21,3,,79_80
+Croson_1999_194,Croson_1999,Guess,2,asymmetric PD,Croson_1999_2,Croson_1999_3,2,,51_52
+Croson_1999_195,Croson_1999,Guess,2,asymmetric PD,Croson_1999_2,Croson_1999_4,1,,52_53
+Croson_1999_196,Croson_1999,Guess,2,asymmetric PD,Croson_1999_2,Croson_1999_5,2,,53_54
+Croson_1999_197,Croson_1999,Guess,2,asymmetric PD,Croson_1999_2,Croson_1999_6,1,,54_55
+Croson_1999_198,Croson_1999,Guess,2,asymmetric PD,Croson_1999_2,Croson_1999_7,2,,55_56
+Croson_1999_199,Croson_1999,Guess,2,asymmetric PD,Croson_1999_2,Croson_1999_8,2,,56_57
+Croson_1999_200,Croson_1999,Guess,2,asymmetric PD,Croson_1999_2,Croson_1999_9,2,,57_58
+Croson_1999_201,Croson_1999,No Guess,1,Iterated Dominance I,Croson_1999_22,Croson_1999_23,2,,280_281
+Croson_1999_202,Croson_1999,No Guess,1,Iterated Dominance I,Croson_1999_23,Croson_1999_24,1,,281_282
+Croson_1999_203,Croson_1999,No Guess,1,Iterated Dominance I,Croson_1999_23,Croson_1999_25,1,,282_283
+Croson_1999_204,Croson_1999,No Guess,1,Iterated Dominance I,Croson_1999_23,Croson_1999_26,1,,283_284
+Croson_1999_205,Croson_1999,No Guess,1,Iterated Dominance I,Croson_1999_23,Croson_1999_27,1,,284_285
+Croson_1999_206,Croson_1999,No Guess,1,Iterated Dominance I,Croson_1999_23,Croson_1999_28,2,,285_286
+Croson_1999_207,Croson_1999,No Guess,1,Iterated Dominance I,Croson_1999_23,Croson_1999_29,2,,286_287
+Croson_1999_208,Croson_1999,No Guess,1,Iterated Dominance I,Croson_1999_23,Croson_1999_30,2,,287_288
+Croson_1999_209,Croson_1999,No Guess,1,Iterated Dominance I,Croson_1999_23,Croson_1999_31,2,,288_289
+Croson_1999_210,Croson_1999,No Guess,1,Iterated Dominance I,Croson_1999_23,Croson_1999_32,1,,289_290
+Croson_1999_211,Croson_1999,No Guess,1,Iterated Dominance I,Croson_1999_23,Croson_1999_33,3,,300_301
+Croson_1999_212,Croson_1999,No Guess,1,Iterated Dominance I,Croson_1999_23,Croson_1999_34,3,,301_302
+Croson_1999_213,Croson_1999,No Guess,1,Iterated Dominance I,Croson_1999_23,Croson_1999_35,3,,302_303
+Croson_1999_214,Croson_1999,No Guess,1,Iterated Dominance I,Croson_1999_23,Croson_1999_36,3,,303_304
+Croson_1999_215,Croson_1999,No Guess,1,Iterated Dominance I,Croson_1999_23,Croson_1999_37,3,,304_305
+Croson_1999_216,Croson_1999,No Guess,1,Iterated Dominance I,Croson_1999_23,Croson_1999_38,4,,305_306
+Croson_1999_217,Croson_1999,No Guess,1,Iterated Dominance I,Croson_1999_23,Croson_1999_39,4,,306_307
+Croson_1999_218,Croson_1999,No Guess,1,Iterated Dominance I,Croson_1999_23,Croson_1999_40,4,,307_308
+Croson_1999_219,Croson_1999,No Guess,1,Iterated Dominance I,Croson_1999_23,Croson_1999_41,4,,308_309
+Croson_1999_220,Croson_1999,No Guess,1,Iterated Dominance I,Croson_1999_23,Croson_1999_42,4,,309_310
+Croson_1999_221,Croson_1999,No Guess,1,Iterated dominance 2,Croson_1999_22,Croson_1999_23,1,,320_321
+Croson_1999_222,Croson_1999,No Guess,1,Iterated dominance 2,Croson_1999_23,Croson_1999_24,1,,321_322
+Croson_1999_223,Croson_1999,No Guess,1,Iterated dominance 2,Croson_1999_23,Croson_1999_25,2,,322_323
+Croson_1999_224,Croson_1999,No Guess,1,Iterated dominance 2,Croson_1999_23,Croson_1999_26,1,,323_324
+Croson_1999_225,Croson_1999,No Guess,1,Iterated dominance 2,Croson_1999_23,Croson_1999_27,2,,324_325
+Croson_1999_226,Croson_1999,No Guess,1,Iterated dominance 2,Croson_1999_23,Croson_1999_28,1,,325_326
+Croson_1999_227,Croson_1999,No Guess,1,Iterated dominance 2,Croson_1999_23,Croson_1999_29,2,,326_327
+Croson_1999_228,Croson_1999,No Guess,1,Iterated dominance 2,Croson_1999_23,Croson_1999_30,2,,327_328
+Croson_1999_229,Croson_1999,No Guess,1,Iterated dominance 2,Croson_1999_23,Croson_1999_31,2,,328_329
+Croson_1999_230,Croson_1999,No Guess,1,Iterated dominance 2,Croson_1999_23,Croson_1999_32,2,,329_330
+Croson_1999_231,Croson_1999,No Guess,1,Iterated dominance 2,Croson_1999_23,Croson_1999_33,4,,340_341
+Croson_1999_232,Croson_1999,No Guess,1,Iterated dominance 2,Croson_1999_23,Croson_1999_34,3,,341_342
+Croson_1999_233,Croson_1999,No Guess,1,Iterated dominance 2,Croson_1999_23,Croson_1999_35,3,,342_343
+Croson_1999_234,Croson_1999,No Guess,1,Iterated dominance 2,Croson_1999_23,Croson_1999_36,3,,343_344
+Croson_1999_235,Croson_1999,No Guess,1,Iterated dominance 2,Croson_1999_23,Croson_1999_37,3,,344_345
+Croson_1999_236,Croson_1999,No Guess,1,Iterated dominance 2,Croson_1999_23,Croson_1999_38,4,,345_346
+Croson_1999_237,Croson_1999,No Guess,1,Iterated dominance 2,Croson_1999_23,Croson_1999_39,3,,346_347
+Croson_1999_238,Croson_1999,No Guess,1,Iterated dominance 2,Croson_1999_23,Croson_1999_40,4,,347_348
+Croson_1999_239,Croson_1999,No Guess,1,Iterated dominance 2,Croson_1999_23,Croson_1999_41,3,,348_349
+Croson_1999_240,Croson_1999,No Guess,1,Iterated dominance 2,Croson_1999_23,Croson_1999_42,3,,349_350
+Croson_1999_241,Croson_1999,No Guess,1,Same reason,Croson_1999_22,Croson_1999_23,2,,360_361
+Croson_1999_242,Croson_1999,No Guess,1,Same reason,Croson_1999_23,Croson_1999_24,2,,361_362
+Croson_1999_243,Croson_1999,No Guess,1,Same reason,Croson_1999_23,Croson_1999_25,2,,362_363
+Croson_1999_244,Croson_1999,No Guess,1,Same reason,Croson_1999_23,Croson_1999_26,2,,363_364
+Croson_1999_245,Croson_1999,No Guess,1,Same reason,Croson_1999_23,Croson_1999_27,2,,364_365
+Croson_1999_246,Croson_1999,No Guess,1,Same reason,Croson_1999_23,Croson_1999_28,2,,365_366
+Croson_1999_247,Croson_1999,No Guess,1,Same reason,Croson_1999_23,Croson_1999_29,2,,366_367
+Croson_1999_248,Croson_1999,No Guess,1,Same reason,Croson_1999_23,Croson_1999_30,2,,367_368
+Croson_1999_249,Croson_1999,No Guess,1,Same reason,Croson_1999_23,Croson_1999_31,2,,368_369
+Croson_1999_250,Croson_1999,No Guess,1,Same reason,Croson_1999_23,Croson_1999_32,2,,369_370
+Croson_1999_251,Croson_1999,No Guess,1,Same reason,Croson_1999_23,Croson_1999_33,4,,380_381
+Croson_1999_252,Croson_1999,No Guess,1,Same reason,Croson_1999_23,Croson_1999_34,4,,381_382
+Croson_1999_253,Croson_1999,No Guess,1,Same reason,Croson_1999_23,Croson_1999_35,4,,382_383
+Croson_1999_254,Croson_1999,No Guess,1,Same reason,Croson_1999_23,Croson_1999_36,4,,383_384
+Croson_1999_255,Croson_1999,No Guess,1,Same reason,Croson_1999_23,Croson_1999_37,4,,384_385
+Croson_1999_256,Croson_1999,No Guess,1,Same reason,Croson_1999_23,Croson_1999_38,4,,385_386
+Croson_1999_257,Croson_1999,No Guess,1,Same reason,Croson_1999_23,Croson_1999_39,4,,386_387
+Croson_1999_258,Croson_1999,No Guess,1,Same reason,Croson_1999_23,Croson_1999_40,4,,387_388
+Croson_1999_259,Croson_1999,No Guess,1,Same reason,Croson_1999_23,Croson_1999_41,4,,388_389
+Croson_1999_260,Croson_1999,No Guess,1,Same reason,Croson_1999_23,Croson_1999_42,4,,389_390
+Croson_1999_261,Croson_1999,No Guess,1,Symmetric PD,Croson_1999_22,Croson_1999_23,1,,200_201
+Croson_1999_262,Croson_1999,No Guess,1,Symmetric PD,Croson_1999_23,Croson_1999_24,1,,201_202
+Croson_1999_263,Croson_1999,No Guess,1,Symmetric PD,Croson_1999_23,Croson_1999_25,1,,202_203
+Croson_1999_264,Croson_1999,No Guess,1,Symmetric PD,Croson_1999_23,Croson_1999_26,2,,203_204
+Croson_1999_265,Croson_1999,No Guess,1,Symmetric PD,Croson_1999_23,Croson_1999_27,1,,204_205
+Croson_1999_266,Croson_1999,No Guess,1,Symmetric PD,Croson_1999_23,Croson_1999_28,1,,205_206
+Croson_1999_267,Croson_1999,No Guess,1,Symmetric PD,Croson_1999_23,Croson_1999_29,2,,206_207
+Croson_1999_268,Croson_1999,No Guess,1,Symmetric PD,Croson_1999_23,Croson_1999_30,1,,207_208
+Croson_1999_269,Croson_1999,No Guess,1,Symmetric PD,Croson_1999_23,Croson_1999_31,1,,208_209
+Croson_1999_270,Croson_1999,No Guess,1,Symmetric PD,Croson_1999_23,Croson_1999_32,1,,209_210
+Croson_1999_271,Croson_1999,No Guess,1,Symmetric PD,Croson_1999_23,Croson_1999_33,3,,220_221
+Croson_1999_272,Croson_1999,No Guess,1,Symmetric PD,Croson_1999_23,Croson_1999_34,3,,221_222
+Croson_1999_273,Croson_1999,No Guess,1,Symmetric PD,Croson_1999_23,Croson_1999_35,3,,222_223
+Croson_1999_274,Croson_1999,No Guess,1,Symmetric PD,Croson_1999_23,Croson_1999_36,3,,223_224
+Croson_1999_275,Croson_1999,No Guess,1,Symmetric PD,Croson_1999_23,Croson_1999_37,4,,224_225
+Croson_1999_276,Croson_1999,No Guess,1,Symmetric PD,Croson_1999_23,Croson_1999_38,3,,225_226
+Croson_1999_277,Croson_1999,No Guess,1,Symmetric PD,Croson_1999_23,Croson_1999_39,3,,226_227
+Croson_1999_278,Croson_1999,No Guess,1,Symmetric PD,Croson_1999_23,Croson_1999_40,3,,227_228
+Croson_1999_279,Croson_1999,No Guess,1,Symmetric PD,Croson_1999_23,Croson_1999_41,3,,228_229
+Croson_1999_280,Croson_1999,No Guess,1,Symmetric PD,Croson_1999_23,Croson_1999_42,3,,229_230
+Croson_1999_281,Croson_1999,No Guess,1,asymmetric PD,Croson_1999_22,Croson_1999_23,1,,240_241
+Croson_1999_282,Croson_1999,No Guess,1,asymmetric PD,Croson_1999_23,Croson_1999_24,2,,241_242
+Croson_1999_283,Croson_1999,No Guess,1,asymmetric PD,Croson_1999_23,Croson_1999_25,1,,242_243
+Croson_1999_284,Croson_1999,No Guess,1,asymmetric PD,Croson_1999_23,Croson_1999_26,2,,243_244
+Croson_1999_285,Croson_1999,No Guess,1,asymmetric PD,Croson_1999_23,Croson_1999_27,1,,244_245
+Croson_1999_286,Croson_1999,No Guess,1,asymmetric PD,Croson_1999_23,Croson_1999_28,1,,245_246
+Croson_1999_287,Croson_1999,No Guess,1,asymmetric PD,Croson_1999_23,Croson_1999_29,2,,246_247
+Croson_1999_288,Croson_1999,No Guess,1,asymmetric PD,Croson_1999_23,Croson_1999_30,1,,247_248
+Croson_1999_289,Croson_1999,No Guess,1,asymmetric PD,Croson_1999_23,Croson_1999_31,1,,248_249
+Croson_1999_290,Croson_1999,No Guess,1,asymmetric PD,Croson_1999_23,Croson_1999_32,1,,249_250
+Croson_1999_291,Croson_1999,No Guess,1,asymmetric PD,Croson_1999_23,Croson_1999_33,3,,260_261
+Croson_1999_292,Croson_1999,No Guess,1,asymmetric PD,Croson_1999_23,Croson_1999_34,3,,261_262
+Croson_1999_293,Croson_1999,No Guess,1,asymmetric PD,Croson_1999_23,Croson_1999_35,4,,262_263
+Croson_1999_294,Croson_1999,No Guess,1,asymmetric PD,Croson_1999_23,Croson_1999_36,3,,263_264
+Croson_1999_295,Croson_1999,No Guess,1,asymmetric PD,Croson_1999_23,Croson_1999_37,3,,264_265
+Croson_1999_296,Croson_1999,No Guess,1,asymmetric PD,Croson_1999_23,Croson_1999_38,3,,265_266
+Croson_1999_297,Croson_1999,No Guess,1,asymmetric PD,Croson_1999_23,Croson_1999_39,4,,266_267
+Croson_1999_298,Croson_1999,No Guess,1,asymmetric PD,Croson_1999_23,Croson_1999_40,3,,267_268
+Croson_1999_299,Croson_1999,No Guess,1,asymmetric PD,Croson_1999_23,Croson_1999_41,3,,268_269
+Croson_1999_300,Croson_1999,No Guess,1,asymmetric PD,Croson_1999_23,Croson_1999_42,3,,269_270
+Croson_1999_301,Croson_1999,No Guess,2,Iterated Dominance I,Croson_1999_22,Croson_1999_23,1,,290_291
+Croson_1999_302,Croson_1999,No Guess,2,Iterated Dominance I,Croson_1999_23,Croson_1999_24,1,,291_292
+Croson_1999_303,Croson_1999,No Guess,2,Iterated Dominance I,Croson_1999_23,Croson_1999_25,1,,292_293
+Croson_1999_304,Croson_1999,No Guess,2,Iterated Dominance I,Croson_1999_23,Croson_1999_26,2,,293_294
+Croson_1999_305,Croson_1999,No Guess,2,Iterated Dominance I,Croson_1999_23,Croson_1999_27,2,,294_295
+Croson_1999_306,Croson_1999,No Guess,2,Iterated Dominance I,Croson_1999_23,Croson_1999_28,1,,295_296
+Croson_1999_307,Croson_1999,No Guess,2,Iterated Dominance I,Croson_1999_23,Croson_1999_29,1,,296_297
+Croson_1999_308,Croson_1999,No Guess,2,Iterated Dominance I,Croson_1999_23,Croson_1999_30,1,,297_298
+Croson_1999_309,Croson_1999,No Guess,2,Iterated Dominance I,Croson_1999_23,Croson_1999_31,2,,298_299
+Croson_1999_310,Croson_1999,No Guess,2,Iterated Dominance I,Croson_1999_23,Croson_1999_32,1,,299_300
+Croson_1999_311,Croson_1999,No Guess,2,Iterated Dominance I,Croson_1999_23,Croson_1999_33,3,,310_311
+Croson_1999_312,Croson_1999,No Guess,2,Iterated Dominance I,Croson_1999_23,Croson_1999_34,4,,311_312
+Croson_1999_313,Croson_1999,No Guess,2,Iterated Dominance I,Croson_1999_23,Croson_1999_35,4,,312_313
+Croson_1999_314,Croson_1999,No Guess,2,Iterated Dominance I,Croson_1999_23,Croson_1999_36,4,,313_314
+Croson_1999_315,Croson_1999,No Guess,2,Iterated Dominance I,Croson_1999_23,Croson_1999_37,4,,314_315
+Croson_1999_316,Croson_1999,No Guess,2,Iterated Dominance I,Croson_1999_23,Croson_1999_38,4,,315_316
+Croson_1999_317,Croson_1999,No Guess,2,Iterated Dominance I,Croson_1999_23,Croson_1999_39,4,,316_317
+Croson_1999_318,Croson_1999,No Guess,2,Iterated Dominance I,Croson_1999_23,Croson_1999_40,4,,317_318
+Croson_1999_319,Croson_1999,No Guess,2,Iterated Dominance I,Croson_1999_23,Croson_1999_41,3,,318_319
+Croson_1999_320,Croson_1999,No Guess,2,Iterated Dominance I,Croson_1999_23,Croson_1999_42,3,,319_320
+Croson_1999_321,Croson_1999,No Guess,2,Iterated dominance 2,Croson_1999_22,Croson_1999_23,1,,330_331
+Croson_1999_322,Croson_1999,No Guess,2,Iterated dominance 2,Croson_1999_23,Croson_1999_24,2,,331_332
+Croson_1999_323,Croson_1999,No Guess,2,Iterated dominance 2,Croson_1999_23,Croson_1999_25,1,,332_333
+Croson_1999_324,Croson_1999,No Guess,2,Iterated dominance 2,Croson_1999_23,Croson_1999_26,2,,333_334
+Croson_1999_325,Croson_1999,No Guess,2,Iterated dominance 2,Croson_1999_23,Croson_1999_27,2,,334_335
+Croson_1999_326,Croson_1999,No Guess,2,Iterated dominance 2,Croson_1999_23,Croson_1999_28,1,,335_336
+Croson_1999_327,Croson_1999,No Guess,2,Iterated dominance 2,Croson_1999_23,Croson_1999_29,2,,336_337
+Croson_1999_328,Croson_1999,No Guess,2,Iterated dominance 2,Croson_1999_23,Croson_1999_30,1,,337_338
+Croson_1999_329,Croson_1999,No Guess,2,Iterated dominance 2,Croson_1999_23,Croson_1999_31,2,,338_339
+Croson_1999_330,Croson_1999,No Guess,2,Iterated dominance 2,Croson_1999_23,Croson_1999_32,2,,339_340
+Croson_1999_331,Croson_1999,No Guess,2,Iterated dominance 2,Croson_1999_23,Croson_1999_33,4,,350_351
+Croson_1999_332,Croson_1999,No Guess,2,Iterated dominance 2,Croson_1999_23,Croson_1999_34,3,,351_352
+Croson_1999_333,Croson_1999,No Guess,2,Iterated dominance 2,Croson_1999_23,Croson_1999_35,3,,352_353
+Croson_1999_334,Croson_1999,No Guess,2,Iterated dominance 2,Croson_1999_23,Croson_1999_36,4,,353_354
+Croson_1999_335,Croson_1999,No Guess,2,Iterated dominance 2,Croson_1999_23,Croson_1999_37,3,,354_355
+Croson_1999_336,Croson_1999,No Guess,2,Iterated dominance 2,Croson_1999_23,Croson_1999_38,3,,355_356
+Croson_1999_337,Croson_1999,No Guess,2,Iterated dominance 2,Croson_1999_23,Croson_1999_39,3,,356_357
+Croson_1999_338,Croson_1999,No Guess,2,Iterated dominance 2,Croson_1999_23,Croson_1999_40,4,,357_358
+Croson_1999_339,Croson_1999,No Guess,2,Iterated dominance 2,Croson_1999_23,Croson_1999_41,3,,358_359
+Croson_1999_340,Croson_1999,No Guess,2,Iterated dominance 2,Croson_1999_23,Croson_1999_42,3,,359_360
+Croson_1999_341,Croson_1999,No Guess,2,Same reason,Croson_1999_22,Croson_1999_23,2,,370_371
+Croson_1999_342,Croson_1999,No Guess,2,Same reason,Croson_1999_23,Croson_1999_24,2,,371_372
+Croson_1999_343,Croson_1999,No Guess,2,Same reason,Croson_1999_23,Croson_1999_25,2,,372_373
+Croson_1999_344,Croson_1999,No Guess,2,Same reason,Croson_1999_23,Croson_1999_26,2,,373_374
+Croson_1999_345,Croson_1999,No Guess,2,Same reason,Croson_1999_23,Croson_1999_27,2,,374_375
+Croson_1999_346,Croson_1999,No Guess,2,Same reason,Croson_1999_23,Croson_1999_28,1,,375_376
+Croson_1999_347,Croson_1999,No Guess,2,Same reason,Croson_1999_23,Croson_1999_29,1,,376_377
+Croson_1999_348,Croson_1999,No Guess,2,Same reason,Croson_1999_23,Croson_1999_30,2,,377_378
+Croson_1999_349,Croson_1999,No Guess,2,Same reason,Croson_1999_23,Croson_1999_31,2,,378_379
+Croson_1999_350,Croson_1999,No Guess,2,Same reason,Croson_1999_23,Croson_1999_32,2,,379_380
+Croson_1999_351,Croson_1999,No Guess,2,Same reason,Croson_1999_23,Croson_1999_33,4,,390_391
+Croson_1999_352,Croson_1999,No Guess,2,Same reason,Croson_1999_23,Croson_1999_34,4,,391_392
+Croson_1999_353,Croson_1999,No Guess,2,Same reason,Croson_1999_23,Croson_1999_35,4,,392_393
+Croson_1999_354,Croson_1999,No Guess,2,Same reason,Croson_1999_23,Croson_1999_36,4,,393_394
+Croson_1999_355,Croson_1999,No Guess,2,Same reason,Croson_1999_23,Croson_1999_37,3,,394_395
+Croson_1999_356,Croson_1999,No Guess,2,Same reason,Croson_1999_23,Croson_1999_38,4,,395_396
+Croson_1999_357,Croson_1999,No Guess,2,Same reason,Croson_1999_23,Croson_1999_39,3,,396_397
+Croson_1999_358,Croson_1999,No Guess,2,Same reason,Croson_1999_23,Croson_1999_40,4,,397_398
+Croson_1999_359,Croson_1999,No Guess,2,Same reason,Croson_1999_23,Croson_1999_41,3,,398_399
+Croson_1999_360,Croson_1999,No Guess,2,Same reason,Croson_1999_23,Croson_1999_42,4,,399_400
+Croson_1999_361,Croson_1999,No Guess,2,Symmetric PD,Croson_1999_22,Croson_1999_23,1,,210_211
+Croson_1999_362,Croson_1999,No Guess,2,Symmetric PD,Croson_1999_23,Croson_1999_24,2,,211_212
+Croson_1999_363,Croson_1999,No Guess,2,Symmetric PD,Croson_1999_23,Croson_1999_25,1,,212_213
+Croson_1999_364,Croson_1999,No Guess,2,Symmetric PD,Croson_1999_23,Croson_1999_26,1,,213_214
+Croson_1999_365,Croson_1999,No Guess,2,Symmetric PD,Croson_1999_23,Croson_1999_27,2,,214_215
+Croson_1999_366,Croson_1999,No Guess,2,Symmetric PD,Croson_1999_23,Croson_1999_28,1,,215_216
+Croson_1999_367,Croson_1999,No Guess,2,Symmetric PD,Croson_1999_23,Croson_1999_29,2,,216_217
+Croson_1999_368,Croson_1999,No Guess,2,Symmetric PD,Croson_1999_23,Croson_1999_30,2,,217_218
+Croson_1999_369,Croson_1999,No Guess,2,Symmetric PD,Croson_1999_23,Croson_1999_31,2,,218_219
+Croson_1999_370,Croson_1999,No Guess,2,Symmetric PD,Croson_1999_23,Croson_1999_32,1,,219_220
+Croson_1999_371,Croson_1999,No Guess,2,Symmetric PD,Croson_1999_23,Croson_1999_33,3,,230_231
+Croson_1999_372,Croson_1999,No Guess,2,Symmetric PD,Croson_1999_23,Croson_1999_34,3,,231_232
+Croson_1999_373,Croson_1999,No Guess,2,Symmetric PD,Croson_1999_23,Croson_1999_35,3,,232_233
+Croson_1999_374,Croson_1999,No Guess,2,Symmetric PD,Croson_1999_23,Croson_1999_36,3,,233_234
+Croson_1999_375,Croson_1999,No Guess,2,Symmetric PD,Croson_1999_23,Croson_1999_37,3,,234_235
+Croson_1999_376,Croson_1999,No Guess,2,Symmetric PD,Croson_1999_23,Croson_1999_38,4,,235_236
+Croson_1999_377,Croson_1999,No Guess,2,Symmetric PD,Croson_1999_23,Croson_1999_39,3,,236_237
+Croson_1999_378,Croson_1999,No Guess,2,Symmetric PD,Croson_1999_23,Croson_1999_40,3,,237_238
+Croson_1999_379,Croson_1999,No Guess,2,Symmetric PD,Croson_1999_23,Croson_1999_41,3,,238_239
+Croson_1999_380,Croson_1999,No Guess,2,Symmetric PD,Croson_1999_23,Croson_1999_42,3,,239_240
+Croson_1999_381,Croson_1999,No Guess,2,asymmetric PD,Croson_1999_22,Croson_1999_23,1,,250_251
+Croson_1999_382,Croson_1999,No Guess,2,asymmetric PD,Croson_1999_23,Croson_1999_24,2,,251_252
+Croson_1999_383,Croson_1999,No Guess,2,asymmetric PD,Croson_1999_23,Croson_1999_25,2,,252_253
+Croson_1999_384,Croson_1999,No Guess,2,asymmetric PD,Croson_1999_23,Croson_1999_26,1,,253_254
+Croson_1999_385,Croson_1999,No Guess,2,asymmetric PD,Croson_1999_23,Croson_1999_27,1,,254_255
+Croson_1999_386,Croson_1999,No Guess,2,asymmetric PD,Croson_1999_23,Croson_1999_28,2,,255_256
+Croson_1999_387,Croson_1999,No Guess,2,asymmetric PD,Croson_1999_23,Croson_1999_29,1,,256_257
+Croson_1999_388,Croson_1999,No Guess,2,asymmetric PD,Croson_1999_23,Croson_1999_30,1,,257_258
+Croson_1999_389,Croson_1999,No Guess,2,asymmetric PD,Croson_1999_23,Croson_1999_31,2,,258_259
+Croson_1999_390,Croson_1999,No Guess,2,asymmetric PD,Croson_1999_23,Croson_1999_32,1,,259_260
+Croson_1999_391,Croson_1999,No Guess,2,asymmetric PD,Croson_1999_23,Croson_1999_33,3,,270_271
+Croson_1999_392,Croson_1999,No Guess,2,asymmetric PD,Croson_1999_23,Croson_1999_34,3,,271_272
+Croson_1999_393,Croson_1999,No Guess,2,asymmetric PD,Croson_1999_23,Croson_1999_35,3,,272_273
+Croson_1999_394,Croson_1999,No Guess,2,asymmetric PD,Croson_1999_23,Croson_1999_36,4,,273_274
+Croson_1999_395,Croson_1999,No Guess,2,asymmetric PD,Croson_1999_23,Croson_1999_37,3,,274_275
+Croson_1999_396,Croson_1999,No Guess,2,asymmetric PD,Croson_1999_23,Croson_1999_38,4,,275_276
+Croson_1999_397,Croson_1999,No Guess,2,asymmetric PD,Croson_1999_23,Croson_1999_39,4,,276_277
+Croson_1999_398,Croson_1999,No Guess,2,asymmetric PD,Croson_1999_23,Croson_1999_40,3,,277_278
+Croson_1999_399,Croson_1999,No Guess,2,asymmetric PD,Croson_1999_23,Croson_1999_41,4,,278_279
+Croson_1999_400,Croson_1999,No Guess,2,asymmetric PD,Croson_1999_23,Croson_1999_42,3,,279_280

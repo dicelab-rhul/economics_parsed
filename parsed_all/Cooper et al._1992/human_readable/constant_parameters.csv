@@ -1,0 +1,31 @@
+parameter_name,parameter_value
+G3allnew_player_count,11
+risky_player_count,11
+UL_1 ($),0.32
+UC_1 ($),0.44
+UR_1 ($),0.5
+ML_1($),0.42
+MC_1($),0.6
+MR_1($),0.66
+DL_1 ($),0.18
+DC_1($),0.36
+DR_1 ($),0.42
+UL_0 ($),0.32
+UC_0 ($),0.42
+UR_0 ($),0.18
+ML_0($),0.44
+MC_0($),0.6
+MR_0($),0.36
+DL_0($),0.5
+DC_0($),0.66
+DR_0($),0.42
+Finite,1
+ContRule,0
+Exchange,1000
+Eq,1
+Eq_1_U,0
+Eq_1_M,1
+Eq_1_D,0
+Eq_1_L,0
+Eq_1_C,1
+Eq_1_R,0

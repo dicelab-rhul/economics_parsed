@@ -1,0 +1,20 @@
+parameter_name,parameter_value
+Baseline_player_count,46
+OB_player_count,28
+Id_2,
+M1C1_1($),
+M1C2_1($),
+M2C1_1($),
+M2C2_1($),
+M1C1_0($),
+M1C2_0($),
+M2C1_0($),
+M2C2_0($),
+Choice_2,
+Payoff ($),
+Finite,1
+ContRule,0
+Exchange,2.5
+Eq,1
+Eq_1_M2,0
+Eq_1_C2,0

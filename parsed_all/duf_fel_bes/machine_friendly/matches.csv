@@ -1,7 +1,7 @@
-match_id,dataset_id,treatment,session,round,player_1_id,player_2_id,player_1_choice,player_2_choice
-duf_fel_bes_1,duf_fel_bes,N/A,12,N/A,duf_fel_bes_1,duf_fel_bes_1,N/A,N/A
-duf_fel_bes_2,duf_fel_bes,N/A,2,N/A,duf_fel_bes_1,duf_fel_bes_1,N/A,N/A
-duf_fel_bes_3,duf_fel_bes,N/A,3,N/A,duf_fel_bes_1,duf_fel_bes_1,N/A,N/A
-duf_fel_bes_4,duf_fel_bes,N/A,5,N/A,duf_fel_bes_1,duf_fel_bes_1,N/A,N/A
-duf_fel_bes_5,duf_fel_bes,N/A,6,N/A,duf_fel_bes_1,duf_fel_bes_1,N/A,N/A
-duf_fel_bes_6,duf_fel_bes,N/A,9,N/A,duf_fel_bes_1,duf_fel_bes_1,N/A,N/A
+match_id,dataset_id,treatment,session,round,player_1_id,player_2_id,player_1_choice,player_2_choice,from
+duf_fel_bes_1,duf_fel_bes,N/A,12,N/A,duf_fel_bes_1,duf_fel_bes_1,N/A,N/A,1740_1741
+duf_fel_bes_2,duf_fel_bes,N/A,2,N/A,duf_fel_bes_1,duf_fel_bes_1,N/A,N/A,0_1
+duf_fel_bes_3,duf_fel_bes,N/A,3,N/A,duf_fel_bes_1,duf_fel_bes_1,N/A,N/A,240_241
+duf_fel_bes_4,duf_fel_bes,N/A,5,N/A,duf_fel_bes_1,duf_fel_bes_1,N/A,N/A,600_601
+duf_fel_bes_5,duf_fel_bes,N/A,6,N/A,duf_fel_bes_1,duf_fel_bes_1,N/A,N/A,960_961
+duf_fel_bes_6,duf_fel_bes,N/A,9,N/A,duf_fel_bes_1,duf_fel_bes_1,N/A,N/A,1320_1321

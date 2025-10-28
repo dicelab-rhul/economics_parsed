@@ -1,0 +1,19 @@
+parameter_name,parameter_value
+0.6R_player_count,17
+R_player_count,19
+2R_player_count,18
+Row_1,1
+UL_1 ($),0.45
+UR_1 ($),0
+UL_0 ($),0.45
+DL_0 ($),0
+Finite,1
+ContRule,0
+Exchange,100
+Eq,3
+Eq_1_U,1
+Eq_1_L,1
+Eq_2_U,0
+Eq_2_L,0
+Eq_3_U,0.8
+Eq_3_L,0.8

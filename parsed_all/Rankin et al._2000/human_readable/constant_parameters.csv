@@ -1,0 +1,12 @@
+parameter_name,parameter_value
+1_player_count,16
+0_player_count,16
+Row_1,1
+Finite,1
+ContRule,0
+Exchange,1000
+Eq,3
+Eq_1_U,1
+Eq_1_L,1
+Eq_2_U,0
+Eq_2_L,0

@@ -1,0 +1,12 @@
+parameter_name,parameter_value
+Guess_player_count,21
+No Guess_player_count,21
+Id_2,
+Choice_2,
+Payoff ($),
+Finite,1
+ContRule,0
+Exchange,50
+Eq,1
+Eq_1_U,0
+Eq_1_L,0

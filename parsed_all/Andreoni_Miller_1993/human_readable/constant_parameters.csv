@@ -1,0 +1,19 @@
+parameter_name,parameter_value
+STGR_player_count,14
+Game,STGR
+Session,1
+Row_1,0
+UL_1 ($),0.07
+UR_1 ($),0
+DL_1 ($),0.12
+DR_1 ($),0.04
+UL_0 ($),0.07
+UR_0 ($),0.12
+DL_0 ($),0
+DR_0 ($),0.04
+Finite,1
+ContRule,0
+Exchange,100
+Eq,1
+Eq_1_U,0
+Eq_1_L,0
